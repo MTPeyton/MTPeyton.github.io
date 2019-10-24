@@ -1,2 +1,4 @@
 # MPeytonWebsite
-M Peyton's personal website.
+Matt Peyton's personal website.
+
+This is a public repository.

@@ -32,6 +32,7 @@ linkedin_username: mtpeyton
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,3 +53,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+jekyll_analytics:
+  Plausible:
+    domain: 'mpeyton.com'
+    source: 'https://plausible.io/js/script.js'

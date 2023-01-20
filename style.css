@@ -1,0 +1,179 @@
+/* Adapted from https://chuck.is/ */
+
+body {
+    color: #454545;
+    font-family: 'Open Sans', Sans-Serif, STXihei;
+    margin: 1em auto;
+    max-width: 45em;
+      padding:0 .62em;
+    font-size: 18px;
+    line-height: 1.6;
+    }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  
+  pre{
+    border-left:0.5ex solid gray;padding-left:2em;}
+  
+  code {
+    color: #EEEEEE;
+    background-color: #454545;
+  }
+  
+  blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+  }
+  
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  a:active {
+    text-decoration: underline;
+  }
+  
+  footer {
+    padding: 24px 0px;
+    color: #454545;
+  }
+    
+  .border {   
+    border-width: 16px;   
+    border-color: transparent;   
+    border-style: solid; 
+  } 
+  
+  /* Tables */
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  /* Photo Gallery Stuff */
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create four equal columns that sits next to each other */
+  .column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+  
+  
+  /* Navigation Bar Stuff */
+      .nav {
+        height: 50px;
+        width: 100%;
+        position: relative;
+      }
+       
+      .nav > .nav-header {
+        display: inline;
+      }
+  
+      /*nav title right border is zero to keep it aligned with body text */
+          .nav > .nav-header > .nav-title {
+        display: inline-block;
+        font-size: 22px;
+        padding: 10px 10px 10px 0px;
+      }
+  
+          .nav > .nav-links {
+        float: right;
+        font-size: 20px;
+      }
+  
+          .nav > .nav-links > a {
+        display: inline-block;
+        padding: 13px 10px 13px 10px;
+        text-decoration: none;
+        color: #454545;
+      }
+  
+         .nav > .nav-links > a:hover {
+        background-color: #454545;
+        color: #EEEEEE;
+      }
+  
+         .nav > .nav-btn,
+      .nav > #nav-check {
+        display: none;
+      }
+  
+          @media (max-width:600px) {
+        .nav > .nav-btn {
+          display: inline-block;
+          position: absolute;
+          right: 0px;
+        }
+        .nav > .nav-btn > label {
+          display: inline-block;
+          padding: 13px;
+        }
+        .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+          background-color: transparent;
+        }
+        .nav > .nav-btn > label > span {
+          display: block;
+          width: 25px;
+          height: 8px;
+          border-top: 2px solid #454545;
+        }
+        .nav > .nav-links {
+          position: absolute;
+          display: block;
+          width: 100%;
+          background-color: #ffffff;
+          overflow-y: hidden;
+          top: 50px;
+        }
+        .nav > .nav-links > a {
+          display: block;
+          width: 100%;
+        }
+        .nav > #nav-check:not(:checked) ~ .nav-links {
+          height: 0px;
+        }
+        .nav > #nav-check:checked ~ .nav-links {
+          height: calc(100vh - 50px);
+        }
+  }
+  

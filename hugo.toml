@@ -21,6 +21,16 @@ ignoreErrors = ["error-disable-taxonomy"]
   blog = "/:slug/"
   tags = "/blog/:slug"
 
+[menus]
+[[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 10
+[[menus.main]]
+    name = 'Bookmarks'
+    pageRef = '/bookmarks'
+    weight = 20
+
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
   description = "Matthew Peyton's Website"

@@ -1,5 +1,5 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date_created = {{ .Date }}
+date = {{ .Date }}
 date_modified = {{ .Date }}
 +++

@@ -1,39 +1,49 @@
 +++
 title = 'Bookmarks'
-date = 2024-02-19
+date = 2024-02-18
 date_modified = 2024-02-19
 +++
 
 # Business
+
 ## Business > Case Studies
 - [How Superhuman Grows - by Jaryd Hermann - How They Grow](https://www.howtheygrow.co/p/how-superhuman-grows)
 - [How an Ugly Single-Page Website Makes $5,000 a Month with Affiliate Marketing](https://medium.com/@petervoica/how-an-ugly-single-page-website-makes-5-000-a-month-with-affiliate-marketing-c4974a8d1d69)
 - [Laleh Khalili · In Clover: What does McKinsey do?](https://www.lrb.co.uk/the-paper/v44/n24/laleh-khalili/in-clover)
 - [The Paradoxes of Coinbase — The Generalist](https://generalist.mirror.xyz/Zgfy7QpX2YR8wAKSlkyEP2MK4qL86fcbbKiqgcuCuMY)
+
 ## Business > Engineering
 - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
 - [We invested 10% to pay back tech debt; Here's what happened](https://blog.alexewerlof.com/p/tech-debt-day)
+
 ## Business > Finances
 - [37signals — Why We Choose Profit at 37signals](https://37signals.com/why-we-choose-profit/)
 - [Changing times (or, why is every layoff 10-15%?)](https://blog.eladgil.com/p/changing-times-or-why-is-every-layoff)
 - [The Games People Play With Cash Flow - Commoncog](https://commoncog.com/cash-flow-games/)
 - [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)
+
 ## Business > Marketing
 - [Don’t build your castle in other people’s kingdoms – How To Market A Game](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
 - [How to hack Hacker News (and consistently hit the front page)](https://www.indiehackers.com/post/how-to-hack-hacker-news-and-consistently-hit-the-front-page-56b4a04e12)
+
 # Environment
+
 ## Environment > Architecture
 - [Drones Are Poised to Reshape Home Design - WSJ](https://www.wsj.com/articles/drones-are-poised-to-reshape-home-design-11607194801)
+
 ## Environment > Climate
 - [How Climate Migration Will Reshape America - The New York Times](https://www.nytimes.com/interactive/2020/09/15/magazine/climate-crisis-migration-america.html)
 - [Law of the River in the US](http://web.mit.edu/12.000/www/m2012/finalwebsite/problem/coloradoriver.shtml#law)
+
 ## Environment > Interior Design
 - [Indoor Plants/Houseplants](https://www.wegmansnursery.com/care-guides/indoor-plants/indoor-plants-houseplants)
 - [Make your own lamp. - Creativity post - Imgur](https://imgur.com/gallery/PcFb1)
+
 ## Environment > Real Estate
 - [Does Georgism Work?, Part 1: Is Land Really A Big Deal?](https://www.astralcodexten.com/p/does-georgism-work-is-land-really)
 - [The Downside to Life in a Supertall Tower: Leaks, Creaks, Breaks - The New York Times](https://www.nytimes.com/2021/02/03/realestate/luxury-high-rise-432-park.html)
 - [Why your house is a terrible investment - JLCollinsnh](https://jlcollinsnh.com/2023/03/02/why-your-house-is-a-terrible-investment/)
+
 ## Environment > Urban Planning
 - [A Nobel-Winning Economist Goes to Burning Man - The New York Times](https://www.nytimes.com/2019/09/05/upshot/paul-romer-burning-man-nobel-economist.html)
 - [Arcology, Arcosanti, and Paolo Soleri’s Evolution of Cities – Urban Utopias](https://urbanutopias.net/2019/09/01/arcosanti/)
@@ -44,11 +54,13 @@ date_modified = 2024-02-19
 - [Sprawl Repair | DPZ Initiatives](http://web.archive.org/web/20140831193143/https://www.dpz.com/Initiatives/SprawlRepair)
 - [The Decline of Mass Transit](https://www.templetons.com/brad/robocars/transit-ends.html)
 - [The Pandemic is Making the Suburbs Even More Appealing - The Atlantic](https://www.theatlantic.com/technology/archive/2020/06/pandemic-suburbs-are-best/613300/)
+
 # Health
 - ['Children of Men' is really happening - by Ed West](https://www.edwest.co.uk/p/children-of-men-is-really-happening?s=r)
 - [2021: Body Count, how Michael Snyder’s self-monitoring project could transform human health | Snyder Lab | Stanford Medicine](https://med.stanford.edu/snyderlab/news/May-24-20211.html)
 - [Declining Sperm Count: Much More Than You Wanted To Know](https://www.astralcodexten.com/p/declining-sperm-count-much-more-than)
 - [Longevity FAQ — Laura Deming](https://www.ldeming.com/longevityfaq)
+
 # People
 - [Aaron Parecki](https://aaronparecki.com/)
 - [Adam Newbold](https://adam.omg.lol/)
@@ -104,18 +116,22 @@ date_modified = 2024-02-19
 - [Zach Holman](https://zachholman.com/)
 - [Zerwuerfnis](https://zerwuerfnis.org/)
 - [mrusme (マリウス)](https://xn--gckvb8fzb.com/)
+
 # Philosophy
 - [Hedonism, Asceticism and the Hermetic Answer | Luke's Webpage](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/)
 - [Modern "Freedom" Means Being a Slave to Impulses | Luke's Webpage](https://lukesmith.xyz/articles/modern-freedom-means-being-a-slave-to-impulses/)
 - [The War on Informality - by Brett Scott](https://brettscott.substack.com/p/the-war-on-informality)
 - [What’s the fun in writing on the internet anymore?](https://jamesshelley.com/blog/writing-on-the-internet.html)
+
 ## Philosophy > Capitalism
 - [Can We Imagine a World Without Work? - Boston Review](https://www.bostonreview.net/articles/can-we-imagine-a-world-without-work/)
 - [Crypto, the Left, and Techno-Feudalism | Yanis Varoufakis & Evgeny Morozov in dialogue - mέta](https://metacpc.org/en/crypto-blockchain/)
 - [Meditations On Moloch](https://www.slatestarcodexabridged.com/Meditations-On-Moloch)
+
 ## Philosophy > Doomsday
 - [Collapse Won’t Reset Society](https://www.palladiummag.com/2022/04/11/collapse-wont-reset-society/)
 - [Disaster planning for regular folks: level-headed prepping tips](https://lcamtuf.coredump.cx/prep/index-old.shtml)
+
 ## Philosophy > Technology
 - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)
 - [Code bloat has become astronomical – Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2022/06/05/code-bloat-has-become-astronomical/)
@@ -125,31 +141,42 @@ date_modified = 2024-02-19
 - [The BOAC Fallacy - iRi](https://jerf.org/iri/post/2916/)
 - [The Grug Brained Developer](https://grugbrain.dev/)
 - [The Tao of Programming](http://www.mit.edu/~xela/tao.html)
+
 # Software
+
 ## Software > Data Science
 - [Polars — Dataframes for the new era](https://pola.rs/)
 - [Welcome | Superset](https://superset.apache.org/)
+
 ## Software > Games
 - [Card-Forge/forge: An unofficial rules engine for the world's greatest card game.](https://github.com/Card-Forge/forge)
 - [GitHub - CorsixTH/CorsixTH: Open source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
+
 ## Software > Geospatial
 - [Overland GPS Tracking App for iPhone](https://overland.p3k.app/)
 - [overpass turbo](https://overpass-turbo.eu/) - Web based OSM data querying tool.
 - [placemark/placemark: A flexible web-based editor, converter, visualization tool, for geospatial data](https://github.com/placemark/placemark)
+
 ## Software > Languages
 - [GitHub - unforswearing/applescript: Applescript applets, snippets, resources, and links](https://github.com/unforswearing/applescript)
 - [The JavaScript Oxidation Compiler](https://oxc-project.github.io/)
+
 ## Software > Networking
 - [MeshCentral](https://meshcentral.com/)
+
 ## Software > Science
 - [Stellarium Astronomy Software](https://stellarium.org/)
+
 # Tech
+
 ## Tech > AI
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
 - [Using Local AI On The Command Line To Rename Images (And More) | Hackaday](https://hackaday.com/2023/12/29/using-local-ai-on-the-command-line-to-rename-images-and-more/)
+
 ## Tech > AR+VR
 - [Steve Mann: My “Augmediated” Life - IEEE Spectrum](https://spectrum.ieee.org/steve-mann-my-augmediated-life)
 - [Why VR/AR Gets Farther Away as It Comes Into Focus — MatthewBall.co](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
+
 ## Tech > Cloud
 - [How I Left The Cloud : r/selfhosted](https://www.reddit.com/r/selfhosted/comments/196nke8/how_i_left_the_cloud/)
 - [What a typical 100% Serverless Architecture looks like in AWS! | by Xavier Lefèvre | Serverless Transformation | Medium](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
@@ -158,16 +185,19 @@ date_modified = 2024-02-19
 - [GitHub - rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/) - Kalman Filter explained using Jupyter Notebook examples.
 - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 - [Polars — A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
+
 ## Tech > Databases
 - [Data denormalization is broken | HackerNoon](https://hackernoon.com/data-denormalization-is-broken-7b697352f405)
 - [Multiple Aggregates in One Query - Database Tip](https://sqlfordevs.com/multiple-aggregates-in-one-query)
 - [Scaling SQLite to 4M QPS on a Single Server (EC2 vs Bare Metal)](https://use.expensify.com/blog/scaling-sqlite-to-4m-qps-on-a-single-server)
 - [Things that don’t work well with MySQL’s FOREIGN KEY implementation – code.openark.org](https://code.openark.org/blog/mysql/things-that-dont-work-well-with-mysqls-foreign-key-implementation)
 - [Use Databases Without Putting Domain Logic in Them | Alex Kondov - Software Engineer](https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/)
+
 ## Tech > Frontend
 - [Refactoring UI](https://www.refactoringui.com/)
 - [Calculating Position from Raw GPS Data | Telesens](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 - [To Know Where You Are; High Precision Mapping From Scratch – Ben Dauphinee](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
+
 # Uncategorized
 - [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 - [50 Shades of Rust - HedgeDoc](https://monadical.com/posts/shades-of-rust-gui-library-list.html#)

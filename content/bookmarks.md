@@ -180,6 +180,8 @@ date_modified = 2024-02-19
 ## Tech > Cloud
 - [How I Left The Cloud : r/selfhosted](https://www.reddit.com/r/selfhosted/comments/196nke8/how_i_left_the_cloud/)
 - [What a typical 100% Serverless Architecture looks like in AWS! | by Xavier Lefèvre | Serverless Transformation | Medium](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
+
+## Tech > Data Science
 - [About this Book - 📖 Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
 - [Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/)
 - [GitHub - rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/) - Kalman Filter explained using Jupyter Notebook examples.
@@ -195,6 +197,8 @@ date_modified = 2024-02-19
 
 ## Tech > Frontend
 - [Refactoring UI](https://www.refactoringui.com/)
+
+## Tech > Geospatial
 - [Calculating Position from Raw GPS Data | Telesens](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 - [To Know Where You Are; High Precision Mapping From Scratch – Ben Dauphinee](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
 
@@ -344,4 +348,3 @@ date_modified = 2024-02-19
 - [iiSM.org](https://iism.org/article/why-are-ceos-failing-software-engineers-56)
 - [numtide/devshell: Per project developer environments](https://github.com/numtide/devshell)
 - [wddbfs – Mount a sqlite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
-

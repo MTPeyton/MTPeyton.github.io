@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="http://localhost:1313/favicon.ico" />
+<title>How I Programmatically Bookmark, Archive and Share Websites | Matthew Peyton</title>
+<meta name="title" content="How I Programmatically Bookmark, Archive and Share Websites" />
+<meta name="description" content="DRAFT
+How I Programmatically Bookmark, Archive and Share Websites For the last decade plus, I’ve been tossing links to interesting pages in all sorts of random places. Firefox bookmarks, Apple Notes, Apple Reminders, Markdown files, emails to myself…
+I figured it was finally time to organize all of that. Plus I’ve also wanted to add more content to my personal website for awhile. With my bookmarked links now organized in a single place, it would be easy to auto-generate my link to bookmarks page page." />
+<meta name="keywords" content="" />
+
+
+<meta property="og:title" content="How I Programmatically Bookmark, Archive and Share Websites" />
+<meta property="og:description" content="DRAFT
+How I Programmatically Bookmark, Archive and Share Websites For the last decade plus, I’ve been tossing links to interesting pages in all sorts of random places. Firefox bookmarks, Apple Notes, Apple Reminders, Markdown files, emails to myself…
+I figured it was finally time to organize all of that. Plus I’ve also wanted to add more content to my personal website for awhile. With my bookmarked links now organized in a single place, it would be easy to auto-generate my link to bookmarks page page." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/programmatic_bookmarks/" /><meta property="og:image" content="http://localhost:1313/images/share.png" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-02-19T22:31:19-08:00" />
+<meta property="article:modified_time" content="2024-02-19T22:31:19-08:00" /><meta property="og:site_name" content="Matthew Peyton&#39;s Website" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/images/share.png" /><meta name="twitter:title" content="How I Programmatically Bookmark, Archive and Share Websites"/>
+<meta name="twitter:description" content="DRAFT
+How I Programmatically Bookmark, Archive and Share Websites For the last decade plus, I’ve been tossing links to interesting pages in all sorts of random places. Firefox bookmarks, Apple Notes, Apple Reminders, Markdown files, emails to myself…
+I figured it was finally time to organize all of that. Plus I’ve also wanted to add more content to my personal website for awhile. With my bookmarked links now organized in a single place, it would be easy to auto-generate my link to bookmarks page page."/>
+
+
+
+<meta itemprop="name" content="How I Programmatically Bookmark, Archive and Share Websites">
+<meta itemprop="description" content="DRAFT
+How I Programmatically Bookmark, Archive and Share Websites For the last decade plus, I’ve been tossing links to interesting pages in all sorts of random places. Firefox bookmarks, Apple Notes, Apple Reminders, Markdown files, emails to myself…
+I figured it was finally time to organize all of that. Plus I’ve also wanted to add more content to my personal website for awhile. With my bookmarked links now organized in a single place, it would be easy to auto-generate my link to bookmarks page page."><meta itemprop="datePublished" content="2024-02-19T22:31:19-08:00" />
+<meta itemprop="dateModified" content="2024-02-19T22:31:19-08:00" />
+<meta itemprop="wordCount" content="464"><meta itemprop="image" content="http://localhost:1313/images/share.png" />
+<meta itemprop="keywords" content="" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+</head>
+
+<body>
+  <header><a href="/" class="title">
+  <h2>Matthew Peyton</h2>
+</a>
+<nav><a href="/">Home</a>
+
+<a href="/posts/">Posts</a>
+
+<a href="/bookmarks/">Bookmarks</a>
+
+
+</nav>
+</header>
+  <main>
+
+<content>
+  <p>DRAFT</p>
+<h1 id="how-i-programmatically-bookmark-archive-and-share-websites">How I Programmatically Bookmark, Archive and Share Websites</h1>
+<p>For the last decade plus, I’ve been tossing links to interesting pages in all sorts of random places. Firefox bookmarks, Apple Notes, Apple Reminders, Markdown files, emails to myself…</p>
+<p>I figured it was finally time to organize all of that. Plus I’ve also wanted to add more content to my personal website for awhile. With my bookmarked links now organized in a single place, it would be easy to auto-generate my <strong><strong>link to bookmarks page</strong></strong> page.</p>
+<p>To organize the links, I first dumped all of them into a single Notion database. I chose Notion because it’s an easy way to setup a database, for free, with a custom schema that can have content added via a browser extension (Notion web clipper) and the iOS share sheet. Each entry included its URL, title a category, and notes. The title was auto-grabbed from the webpage by Notion’s web clipper. The category and notes (if any) were filled in manually by me.</p>
+<p>Each category is a single-select column of the form “Software/Databases/PostgreSQL”. That way I could easily nest categories, while still pre-defining which categories are available.</p>
+<p>From there, I downloaded a backup dump of my Notion workspace. This is something I already do weekly for backup purposes. (Hopefully I’ll fully automate it soon!)</p>
+<p>I wrote a Python script (with some help from Phind) that opens the ZIP file, find the Bookmarks database’s CSV, and converts the entries to a Markdown page. It’s even able to parse the nested categories and output nice header elements for them.</p>
+<!-- raw HTML omitted -->
+<p>After I run that script, I just copy-paste the Markdown output into the /bookmarks page in my website’s files. I’m using Hugo to build my website, so it’s just a plain Markdown file that I paste the output into.</p>
+<p>Finally, I build the Hugo site, push it up to GitHub, and GitHub pages handles deploying the latest version of the site.</p>
+<p>It’s simple, easy, scalable… and it just works.</p>
+<p>One extra step I take at the end is I dump all of the links into a local ArchiveBox instance. I have the config file set to only download: favicons, single files, screenshots and the title. I found this was a good balance between saving space and preserving the sites in a futureproof manner.</p>
+<!-- raw HTML omitted -->
+<p>Of course there are a lot of improvements I could do. I could automate the downloading of the Notion dump, the running of the Python script, the outputting into the Markdown file, the committing and pushing up to GitHub, the ArchiveBox archiving… For now though I’m content with this system as a v0.1. I’m also OK with using Notion since it allows downloading all of your data in non-proprietary formats… meaning the lock-in and potential switching costs are low.</p>
+
+</content>
+<p>
+  
+</p>
+
+  </main>
+  <footer>Copyright © 2017-2024 Matthew Peyton
+</footer>
+
+    
+</body>
+
+</html>

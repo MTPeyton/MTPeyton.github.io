@@ -3,7 +3,7 @@
 baseURL = "https://mpeyton.com"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = ['hugo-bearblog', 'plausible-hugo']
 
 # Basic metadata configuration for your blog.
 title = "Matthew Peyton"
@@ -60,3 +60,11 @@ ignoreErrors = ["error-disable-taxonomy"]
   # for details. An example TOML config that uses [ISO
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   dateFormat = "2006-01-02"
+
+[params.plausible]
+    enable = true
+    domain = "mpeyton.com"
+    outbound_link = true
+    file_downloads = true
+    debug = false
+    gitstar = false

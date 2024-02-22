@@ -27,9 +27,13 @@ ignoreErrors = ["error-disable-taxonomy"]
     pageRef = '/posts'
     weight = 10
 [[menus.main]]
+    name = 'Recipes'
+    pageRef = '/recipes'
+    weight = 20
+[[menus.main]]
     name = 'Bookmarks'
     pageRef = '/bookmarks'
-    weight = 20
+    weight = 30
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.

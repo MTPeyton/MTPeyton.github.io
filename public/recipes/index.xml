@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Matthew Peyton</title>
+    <link>http://localhost:1313/recipes/</link>
+    <description>Recent content in Recipes on Matthew Peyton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2017-2024 Matthew Peyton</copyright>
+    <lastBuildDate>Wed, 21 Feb 2024 23:22:28 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baked Honey Granola</title>
+      <link>http://localhost:1313/recipes/baked_honey_granola/</link>
+      <pubDate>Wed, 21 Feb 2024 23:22:28 -0800</pubDate>
+      <guid>http://localhost:1313/recipes/baked_honey_granola/</guid>
+      <description>Baked Honey Granola Ingredients 2 Cups uncooked rolled oats Quarter cup brown sugar (or regular sugar) Do an eigth of a cup for less sweet granola Quarter teaspoon cinnamon Quarter cup of honey Quarter cup of olive oil Pinch of salt (Optional) Any dried mixins (e.g. dried fruit) Instructions Preheat oven to 325 degrees In large bowl, combine oats, brown sugar, cinnamon, salt In a glass measuring cup, add honey, and warm in microwave for 30 seconds Add the olive oil to the honey and stir to mix Drizzle the honey+olive oil over the ingredients.</description>
+    </item>
+  </channel>
+</rss>

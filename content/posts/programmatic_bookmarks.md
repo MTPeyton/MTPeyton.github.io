@@ -4,8 +4,6 @@ date = 2024-02-19T22:31:19-08:00
 date_modified = 2024-02-19T22:31:19-08:00
 +++
 
-# How I Programmatically Bookmark, Archive and Share Websites
-
 For the last decade plus, I’ve been tossing links to interesting pages in all sorts of random places. Firefox bookmarks, Apple Notes, Apple Reminders, Markdown files, emails to myself…
 
 I figured it was finally time to organize all of that. Plus I’ve also wanted to add more content to my personal website for awhile. With my bookmarked links now organized in a single place, it was easy to auto-generate my [bookmarks page](/bookmarks).

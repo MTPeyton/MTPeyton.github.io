@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="http://localhost:1313/favicon.ico" />
+<title>Why I Switched From Local Plaintext Accounting to SaaS | Matthew Peyton</title>
+<meta name="title" content="Why I Switched From Local Plaintext Accounting to SaaS" />
+<meta name="description" content="Before 2017, I was a user of Mint for tracking my personal finances. However, around that time, I realized that it didn&rsquo;t offer me much functionality. Worse, it was storing my banking and investment account credentials in a way that allowed server-side decryption. (In order to do browser automation and screen scraping of financial websites) So I decided to switch to something else.
+2017 was also the year when I decided to start using more Free and Open Source Software in my life." />
+<meta name="keywords" content="" />
+
+
+<meta property="og:title" content="Why I Switched From Local Plaintext Accounting to SaaS" />
+<meta property="og:description" content="Before 2017, I was a user of Mint for tracking my personal finances. However, around that time, I realized that it didn&rsquo;t offer me much functionality. Worse, it was storing my banking and investment account credentials in a way that allowed server-side decryption. (In order to do browser automation and screen scraping of financial websites) So I decided to switch to something else.
+2017 was also the year when I decided to start using more Free and Open Source Software in my life." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/plaintext_accounting_to_saas/" /><meta property="og:image" content="http://localhost:1313/images/share.png" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-02-25T23:08:10-08:00" />
+<meta property="article:modified_time" content="2024-02-25T23:08:10-08:00" /><meta property="og:site_name" content="Matthew Peyton&#39;s Website" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/images/share.png" /><meta name="twitter:title" content="Why I Switched From Local Plaintext Accounting to SaaS"/>
+<meta name="twitter:description" content="Before 2017, I was a user of Mint for tracking my personal finances. However, around that time, I realized that it didn&rsquo;t offer me much functionality. Worse, it was storing my banking and investment account credentials in a way that allowed server-side decryption. (In order to do browser automation and screen scraping of financial websites) So I decided to switch to something else.
+2017 was also the year when I decided to start using more Free and Open Source Software in my life."/>
+
+
+
+<meta itemprop="name" content="Why I Switched From Local Plaintext Accounting to SaaS">
+<meta itemprop="description" content="Before 2017, I was a user of Mint for tracking my personal finances. However, around that time, I realized that it didn&rsquo;t offer me much functionality. Worse, it was storing my banking and investment account credentials in a way that allowed server-side decryption. (In order to do browser automation and screen scraping of financial websites) So I decided to switch to something else.
+2017 was also the year when I decided to start using more Free and Open Source Software in my life."><meta itemprop="datePublished" content="2024-02-25T23:08:10-08:00" />
+<meta itemprop="dateModified" content="2024-02-25T23:08:10-08:00" />
+<meta itemprop="wordCount" content="1215"><meta itemprop="image" content="http://localhost:1313/images/share.png" />
+<meta itemprop="keywords" content="" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <link rel="preconnect" href="https://plausible.io">
+    <!-- Dev mode : We do not load plausible script to avoid bloating your stats -->
+
+<!-- If you are using Content-Security-Policy, do not forget to add this code to your CSP : 
+  script-src 'unsafe-inline' https://plausible.io
+  connect-src 'unsafe-inline' https://plausible.io
+  or just add the partial 'plausible_csp.html' to those 2 csp directives in your 'index.headers' file
+-->
+
+
+
+    
+    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+    <script>
+         
+         
+         
+    </script>
+
+    
+
+<link rel="alternate"
+      type="application/rss+xml"
+      href="http://localhost:1313//index.xml"
+      title="Matthew Peyton">
+</head>
+
+<body>
+  <header><a href="/" class="title">
+  <h2>Matthew Peyton</h2>
+</a>
+<nav><a href="/">Home</a>
+
+<a href="/posts/">Posts</a>
+
+<a href="/recipes/">Recipes</a>
+
+<a href="/bookmarks/">Bookmarks</a>
+
+<a href="/index.xml">RSS</a>
+
+
+</nav>
+</header>
+  <main>
+
+<h1>Why I Switched From Local Plaintext Accounting to SaaS</h1>
+<p>
+  <i>
+    <time datetime='2024-02-25' pubdate>
+      2024-02-25
+    </time>
+  </i>
+</p>
+
+<content>
+  <p>Before 2017, I was a user of <a href="https://mint.intuit.com/">Mint</a> for tracking my personal finances. However, around that time, I realized that it didn&rsquo;t offer me much functionality. Worse, it was storing my banking and investment account credentials in a way that allowed server-side decryption. (In order to do browser automation and screen scraping of financial websites) So I decided to switch to something else.</p>
+<p>2017 was also the year when I decided to start using more Free and Open Source Software in my life. I did some research on my options, and narrowed it down to two choices: <a href="https://gnucash.org/">GnuCash</a> and <a href="https://github.com/beancount/beancount">beancount</a>. I eventually ruled out GnuCash because of its somewhat-archaic GUI. On the other hand, beancount is essentially a Python library and CLI tool that can read <code>.beancount</code> files. These files are plaintext files, where each line is a declarative statement regarding your personal financial ledger, hence the phrase <a href="https://plaintextaccounting.org/">&ldquo;Plaintext Accounting&rdquo;</a>. The specific beancount syntax is a spinoff of <a href="https://ledger-cli.org/">ledger&rsquo;s</a> syntax: and it leads to a robust <a href="https://en.wikipedia.org/wiki/Double-entry_bookkeeping">double-entry accounting</a> system.</p>
+<p>I wrote several Python scripts that would take downloaded copies of my financial data (in CSV form) and convert them to beancount syntax. I would then append that output to my master beancount file. I could then run beancount&rsquo;s CLI tools to query my financial history&hellip; as well as use <a href="https://beancount.github.io/fava/">fava</a> (a locally-runnable web-based GUI) to view charts of my data. I scheduled the 5th of every month to be my &ldquo;finances day&rdquo; where I would login to my financial services, download my data for the previous month, run my Python scripts on it, and view the results. I tracked things such as: expenses, net worth, investment performance, and more with this setup.</p>
+<p>Each month, in addition to running the scripts, I would also make improvements to them. I wrote automatic expense categorizers, automatic balance assertions, automatic PDF data extraction for my paystubs, automatic stock and cryptocurrency historical price fetchers, etc.</p>
+<p>I did all this like clockwork, once a month, every month, for 6 years.</p>
+<p>Over those 6 years, a lot changed with my financial situation. I got an internship while I was a student. I graduated and got a job. I switched jobs a couple of times. I opened and closed investment accounts. I moved 401ks between employers. It was tough keeping my code up-to-date with my life. When I switched employers, I had to rewrite my paystub data extractors. I was never able to pull data from some 401k providers: so I manually entered it. My bank and investment broker changed their file formats several times, leading to script reworks. Keeping stock prices up-to-date was a huge pain, especially when trying to do it without paying for a stock data API. On and on&hellip; Some of these changes I were able to keep up with&hellip; others got filed as TODOs that never got done.</p>
+<p>There were also issues with my homegrown system that had always been there since the start. Tracking cash was a pain. I would just write a note on my phone, and then manually dump those into my beancount file every month. Small errors would also accumulate and diverge the balance of my accounts in my ledger from their true balance. Automatic balance assertions helped identify this, but I was always playing whack-a-mole trying to revise entries to fix balance accumulations. I guess issues like this are present in ANY double-entry accounting system&hellip; but at the end of the day it just took too much time for me to deal with.</p>
+<p>That&rsquo;s the overarching theme of my issues with my system: <strong>it took way too much time.</strong> After a few years, I began to DREAD the 5th of each month. It would always take me at least half a day to get everything done, and I would always end with more TODOs than I started with. Work on it began to bleed over into other days. At first it was a fun side project&hellip; but after 6 years it had turned from fun hobby to exhausting chore.</p>
+<p>I started a new job in January 2024, and with that came the need to update a LARGE chunk of my code. Paystubs, 401ks, etc. Given that, plus all the other things piling up, I made the decision that this wasn&rsquo;t a project I wanted to spend any more time on. At this point, the benefits of local-first plaintext accounting were outweighed by the time investment required. I decided to look into a service that would do all this work for me.</p>
+<p>After looking at several different options (Mint again, GnuCash again, <a href="https://www.firefly-iii.org/">Firefly III</a>, <a href="https://www.ynab.com/">YouNeedABudget</a>, <a href="personalcapital.com">Personal Capital</a>, <a href="https://beancount.io/">Beancount.io</a>) I ultimately went with Monarch Money. The other options were either shutting down (Mint), destined to have the same problems (GnuCash, Firefly III, Beancount.io) or just not the right all-in-one app (YouNeedABudget, Personal Capital).</p>
+<p>As it turns out, <a href="https://www.businessinsider.com/personal-finance/mint-users-switch-to-budgeting-app-monarch-money-2023-12">Monarch was co-founded by a PM at Mint.</a> I&rsquo;m guessing this is one of the reasons it&rsquo;s so solid. It takes everything Mint did, and does it WAY smoother and WAY more reliably. I&rsquo;m not going to go deep on the specifics, but <a href="https://www.monarchmoney.com/features">you can read their website for a list of their features.</a> It also solves essentially all of the problems I had with my homegrown solution. It directly syncs with my accounts in a secure way, it stays up-to-date hourly instead of monthly, it handles investments/budgets/balances/expenses super well, it has a mobile app I can log cash transactions to.</p>
+<p>Most importantly, <strong>it saves me time.</strong> Now on the 5th of each month, I do about 20 minutes of expense categorization (confirming their automatic suggestions), and that&rsquo;s it. I&rsquo;m done. I can even do it on the bus or the toilet.</p>
+<p>When I first setup my beancount+fava+Python scripts solution, I knew for sure that I was saving myself money as well as building a secure, private and futureproof system. However, I totally failed to realize how much I was paying in time to gain all of that. Those things are still important to me, but my time trumps all of them. I was lucky to be able to find a new solution that saves me time while also (mostly) achieving the other things.</p>
+<p>Secure? Yeah, reasonably so. It uses Plaid for financial connections, which while not perfect, is good enough for me.</p>
+<p>Private? Eh&hellip; probably? They claim to never sell user data, as it&rsquo;s subscription based. I&rsquo;m inclined to believe them. Even if they do eventually sell my data, I won&rsquo;t care too much, because all of that data is already being sold by my financial institutions anyways.</p>
+<p>Futureproof? Maybe. Fortunately though, I can export all of my data to CSVs. Which I do, once a month, just to insure myself against them dissapearing for whatever reason. Worst case I can just (begrudingly) write code that converts those CSVs to beancount, and pick up with my old system where I left off.</p>
+<p>So there it is&hellip; the culmination of 6 years of tracking my finances. It was a bumpy road, and I do somewhat regret not sticking with a Free-and-Open-Source solution&hellip; but ultimately I&rsquo;m very happy to now have an extra free day or two every month!</p>
+<p><em>(Also, I have a referral link to Monarch <a href="https://www.monarchmoney.com/referral/1o7b8u5y8f">here</a>. If you want a non-referral link, you can click <a href="https://www.monarchmoney.com/">here</a> instead.)</em></p>
+
+</content>
+<p>
+  
+</p>
+
+  </main>
+  <footer><i>Copyright © 2017-2024 Matthew Peyton</i>
+</footer>
+
+    
+</body>
+
+</html>

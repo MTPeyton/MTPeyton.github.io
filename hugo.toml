@@ -34,6 +34,10 @@ ignoreErrors = ["error-disable-taxonomy"]
     name = 'Bookmarks'
     pageRef = '/bookmarks'
     weight = 30
+[[menus.main]]
+    name = 'RSS'
+    url = '/index.xml'
+    weight = 40
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.

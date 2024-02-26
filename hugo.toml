@@ -7,7 +7,6 @@ theme = ['hugo-bearblog', 'plausible-hugo']
 
 # Basic metadata configuration for your blog.
 title = "Matthew Peyton"
-author = "Matthew Peyton"
 copyright = "Copyright © 2017-2024 Matthew Peyton"
 languageCode = "en-US"
 

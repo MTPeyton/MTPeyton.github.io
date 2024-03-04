@@ -9,8 +9,15 @@
     <managingEditor>inquiries@mpeyton.com (Matthew Peyton)</managingEditor>
     <webMaster>inquiries@mpeyton.com (Matthew Peyton)</webMaster>
     <copyright>Copyright © 2017-2024 Matthew Peyton</copyright>
-    <lastBuildDate>Sun, 25 Feb 2024 23:08:10 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 22:41:01 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Computer I Want</title>
+      <link>http://localhost:1313/posts/the_computer_i_want/</link>
+      <pubDate>Sun, 03 Mar 2024 22:41:01 -0800</pubDate><author>inquiries@mpeyton.com (Matthew Peyton)</author>
+      <guid>http://localhost:1313/posts/the_computer_i_want/</guid>
+      <description>I have a very clear idea of what my &amp;ldquo;ideal&amp;rdquo; computer would be. It would incorporate all of the best aspects of the different computers I already use today, into a single machine.&#xA;The What First, it would have the form factor of a typical smartphone. This would allow me to carry it everywhere, and use it both one-handed and two-handed. I might even have it be a “hotdog-style foldable” to allow for comfier reading....</description>
+    </item>
     <item>
       <title>Why I Switched From Local Plaintext Accounting to SaaS</title>
       <link>http://localhost:1313/posts/plaintext_accounting_to_saas/</link>

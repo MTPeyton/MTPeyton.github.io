@@ -15,7 +15,7 @@ enableRobotsTXT = true
 
 [Author]
     name = "Matthew Peyton"
-    email = "inquiries@mpeyton.com"
+    email = "N/A"
 
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]

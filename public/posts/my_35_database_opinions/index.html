@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="http://localhost:1313/favicon.ico" />
+<title>My 35 Database Opinions | Matthew Peyton</title>
+<meta name="title" content="My 35 Database Opinions" />
+<meta name="description" content="“That’s just, like, your opinion, man.” - The Dude
+Like all opinions, some of these might be wrong, and some might be right. Some might only apply in certain circumstances. But these are the opinions I’ve formed over the last 5&#43; years on what databases to use, and how to use them.
+Pick relational databases by default. “NoSQL” means “another one-off query language to learn”. Only use alternative databases (MongoDB, Redis, Cassandra, etc." />
+<meta name="keywords" content="" />
+
+
+<meta property="og:title" content="My 35 Database Opinions" />
+<meta property="og:description" content="“That’s just, like, your opinion, man.” - The Dude
+Like all opinions, some of these might be wrong, and some might be right. Some might only apply in certain circumstances. But these are the opinions I’ve formed over the last 5&#43; years on what databases to use, and how to use them.
+Pick relational databases by default. “NoSQL” means “another one-off query language to learn”. Only use alternative databases (MongoDB, Redis, Cassandra, etc." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/my_35_database_opinions/" /><meta property="og:image" content="http://localhost:1313/images/share.png" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-03-11T23:11:22-07:00" />
+<meta property="article:modified_time" content="2024-03-11T23:11:22-07:00" /><meta property="og:site_name" content="Matthew Peyton&#39;s Website" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/images/share.png" /><meta name="twitter:title" content="My 35 Database Opinions"/>
+<meta name="twitter:description" content="“That’s just, like, your opinion, man.” - The Dude
+Like all opinions, some of these might be wrong, and some might be right. Some might only apply in certain circumstances. But these are the opinions I’ve formed over the last 5&#43; years on what databases to use, and how to use them.
+Pick relational databases by default. “NoSQL” means “another one-off query language to learn”. Only use alternative databases (MongoDB, Redis, Cassandra, etc."/>
+
+
+
+<meta itemprop="name" content="My 35 Database Opinions">
+<meta itemprop="description" content="“That’s just, like, your opinion, man.” - The Dude
+Like all opinions, some of these might be wrong, and some might be right. Some might only apply in certain circumstances. But these are the opinions I’ve formed over the last 5&#43; years on what databases to use, and how to use them.
+Pick relational databases by default. “NoSQL” means “another one-off query language to learn”. Only use alternative databases (MongoDB, Redis, Cassandra, etc."><meta itemprop="datePublished" content="2024-03-11T23:11:22-07:00" />
+<meta itemprop="dateModified" content="2024-03-11T23:11:22-07:00" />
+<meta itemprop="wordCount" content="591"><meta itemprop="image" content="http://localhost:1313/images/share.png" />
+<meta itemprop="keywords" content="" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    overflow-x: auto;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 130px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <link rel="preconnect" href="https://plausible.io">
+    <!-- Dev mode : We do not load plausible script to avoid bloating your stats -->
+
+<!-- If you are using Content-Security-Policy, do not forget to add this code to your CSP : 
+  script-src 'unsafe-inline' https://plausible.io
+  connect-src 'unsafe-inline' https://plausible.io
+  or just add the partial 'plausible_csp.html' to those 2 csp directives in your 'index.headers' file
+-->
+
+
+
+    
+    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+    <script>
+         
+         
+         
+    </script>
+
+    
+
+<link rel="alternate"
+      type="application/rss+xml"
+      href="http://localhost:1313//index.xml"
+      title="Matthew Peyton">
+</head>
+
+<body>
+  <header><a href="/" class="title">
+  <h2>Matthew Peyton</h2>
+</a>
+<nav><a href="/">Home</a>
+
+<a href="/posts/">Posts</a>
+
+<a href="/recipes/">Recipes</a>
+
+<a href="/bookmarks/">Bookmarks</a>
+
+<a href="/index.xml">RSS</a>
+
+
+</nav>
+</header>
+  <main>
+
+<h1>My 35 Database Opinions</h1>
+<p>
+  <i>
+    <time datetime='2024-03-11' pubdate>
+      2024-03-11
+    </time>
+  </i>
+</p>
+
+<content>
+  <blockquote>
+<p>“That’s just, like, your opinion, man.” - The Dude</p>
+</blockquote>
+<p>Like all opinions, some of these might be wrong, and some might be right. Some might only apply in certain circumstances. But these are the opinions I’ve formed over the last 5+ years on what databases to use, and how to use them.</p>
+<ol>
+<li>Pick relational databases by default. “NoSQL” means “another one-off query language to learn”.</li>
+<li>Only use alternative databases (MongoDB, Redis, Cassandra, etc.) if you REALLY REALLY need to.</li>
+<li>If your data is even SLIGHTLY relational, don’t use MongoDB. Aggregation pipelines don’t scale well.</li>
+<li>“Schemaless” means that your schema is diffused throughout your codebase.</li>
+<li>Schemas can be trivially handled with a migration tool. (I use Alembic or Prisma)</li>
+<li>Keep your schemas aggressively normalized. De-normalized data is a nightmare to keep up-to-date.</li>
+<li>There’s almost always other ways to gain performance before even considering de-normalizing.</li>
+<li>Plan out your schemas ahead of time. (Use your migration tool!)</li>
+<li>Plan out which columns will be indexes ahead of time!</li>
+<li>Ensure your indexes get created. Periodically audit your indexes and add/remove them if needed.</li>
+<li>Don’t bother with compound indexes unless you have VERY specific queries that need them.</li>
+<li>EAV is an anti-pattern… but can sometimes be useful if used SPARINGLY.</li>
+<li>Use UUIDs instead of auto-incrementing integers for primary keys. You gain globally unique IDs, and hide your DB’s size, for not many downsides.</li>
+<li>Use foreign key constraints! They check yourself before you wreck yourself!</li>
+<li><a href="https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca">Dealing with time is tricky and has lots of hidden ‘gotchas’.</a></li>
+<li>ALWAYS store time as an ISO-8601 timestamp (or your DB’s equivalent timestamp type) in the UTC timezone.</li>
+<li><a href="https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/">Storing peoples&rsquo; names is also very tricky.</a> I just stick to a single field of max 128 Unicode characters.</li>
+<li>Try to have rows represent a single physical object, or an action/event that occurred at a singular point in time.</li>
+<li>Try to keep rows mostly immutable. Things about the row that frequently change should probably be modeled as appends to a separate table.</li>
+<li>Make relationships many-to-many by default unless you have a good reason otherwise.</li>
+<li>Your many-to-many relationship tables should store metadata about the relationship. e.g. Users-to-Companies table that also store’s each employee’s job title at each company.</li>
+<li>Soft-mark things as deleted instead of hard deleting. If hard deleting, at least soft delete first and wait a period of time before hard deleting.</li>
+<li>If data needs to be redacted, just overwrite individual columns with “REDACTED”, rather than deleting the row.</li>
+<li>Use SQLite for local, single-user applications.</li>
+<li>Use PostgreSQL for remote and multi-user applications.</li>
+<li>Don’t use your Postgres superuser for normal DB connections. Create other users and assign them permissions.</li>
+<li>Consider partitioning Postgres tables once they reach approx 100 million rows.</li>
+<li>Choosing a partition key is hard. Usually it’s the least worst option.</li>
+<li>Choose partition key(s) that aligns with your most common WHERE clauses.</li>
+<li>Choose partition key(s) that will lead to partitions roughly balanced in both size and load.</li>
+<li>Your codebase should gracefully handle ANY possible state that’s representable in your DB’s schema. If an engineer manually changes any cell’s value in the DB, it should not blow up your codebase.</li>
+<li>Try to make analytical OLAP queries work using your OLTP database.</li>
+<li>If they’re just too much for your OLTP database, even after you’ve done every optimization you can, only then introduce an OLAP Data Warehouse.</li>
+<li>Don’t write your own ETL code for shipping data from your database to your Data Warehouse. USE SOMETHING PREBUILT!</li>
+<li>Be very cautious when querying your Data Warehouse. Most (e.g. Athena, BigQuery) are powerful. But you can accidentally rack up HUGE bills.</li>
+</ol>
+
+</content>
+<p>
+  
+</p>
+
+  </main>
+  <footer><i>Copyright © 2017-2024 Matthew Peyton</i>
+</footer>
+
+    
+</body>
+
+</html>

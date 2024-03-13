@@ -29,7 +29,7 @@ Like all opinions, some of these might be wrong, and some might be right. Some m
 19. Try to keep rows mostly immutable. Things about the row that frequently change should probably be modeled as appends to a separate table.
 12. Make relationships many-to-many by default unless you have a good reason otherwise.
 21. Your many-to-many relationship tables should store metadata about the relationship. e.g. Users-to-Companies table that also store’s each employee’s job title at each company.
-22. Soft-mark things as deleted instead of hard deleting. If hard deleting, at least soft delete first and wait a period of time before hard deleting.
+22. Hard delete things. [Soft-deleting can lead to problems.](https://blog.bemi.io/soft-deleting-chaos/) Keep an audit log of all changes (creates/updates/deletes) that lets you "undo" if needed.
 23. If data needs to be redacted, just overwrite individual columns with “REDACTED”, rather than deleting the row.
 24. Use SQLite for local, single-user applications.
 25. Use PostgreSQL for remote and multi-user applications.

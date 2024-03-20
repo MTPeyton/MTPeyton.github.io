@@ -1,7 +1,7 @@
 +++
 title = 'Bookmarks'
 date = 2024-02-18
-date_modified = 2024-03-09
+date_modified = 2024-03-19
 +++
 
 # Business
@@ -33,6 +33,7 @@ date_modified = 2024-03-09
 - [Building a SaaS in one week: How I built OnlineOrNot - OnlineOrNot](https://onlineornot.com/building-saas-in-one-week-how-built-onlineornot)
 - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
 - [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
+- [How to embrace asynchronous communication for remote work | The GitLab Handbook](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/)
 - [Manual Work is a Bug - ACM Queue](https://queue.acm.org/detail.cfm?id=3197520)
 - [Monoliths are not dinosaurs | All Things Distributed](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
 - [Project LightSpeed: Rewriting Messenger to be faster, smaller, and simpler](https://engineering.fb.com/2020/03/02/data-infrastructure/messenger/)
@@ -50,6 +51,7 @@ date_modified = 2024-03-09
 - [37signals — Why We Choose Profit at 37signals](https://37signals.com/why-we-choose-profit/)
 - [Baremetrics: Subscription Analytics for your Business](https://baremetrics.com/)
 - [Changing times (or, why is every layoff 10-15%?)](https://blog.eladgil.com/p/changing-times-or-why-is-every-layoff)
+- [Financial Solutions & Resources for Self-Employed Businesses](https://www.collective.com/)
 - [Purchasing Power Parity: fair pricing for your SaaS product](https://scastiel.dev/implement-ppp-fair-pricing-for-your-product)
 - [Reducing our AWS bill by $100,000 - Fathom Analytics](https://usefathom.com/blog/reduce-aws-bill)
 - [Software products are *not* passive income | Successful Software](https://successfulsoftware.net/2016/01/18/software-products-passive-income/)
@@ -60,11 +62,13 @@ date_modified = 2024-03-09
 ## Business > Marketing
 
 - [150 Places to Post Your Company's Startup - Loop](https://loopinput.com/150-places-to-post-your-companys-startup/)
+- [Be in the desires market, not the solutions market - Inverted Passion](https://invertedpassion.com/jobs-to-be-done/)
 - [Buffer: All-you-need social media toolkit for small businesses](https://buffer.com/)
 - [Don’t build your castle in other people’s kingdoms – How To Market A Game](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
 - [Easiest UTM Tags Builder - UTM Builder](https://utm-builder.shubhamjain.co/)
 - [How and why we acquired our .com domain - by Advait Ruia](https://www.advaitruia.com/p/how-and-why-we-acquired-our-com-domain)
 - [How to hack Hacker News (and consistently hit the front page)](https://www.indiehackers.com/post/how-to-hack-hacker-news-and-consistently-hit-the-front-page-56b4a04e12)
+- [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)
 - [New media platforms are enabling a new creator type: Digitally Native Vertical Creators | by Eric Feng | Medium](https://efeng.medium.com/new-media-platforms-are-enabling-a-new-creator-type-digitally-native-vertical-creators-f2a75cbb54fd)
 - [Scaling Railway: Serving 250k Developers with One Support Engineer](https://blog.railway.app/p/scaling-railway-automating-support)
 - [Submit Website To Directories with ListingBott](https://listingbott.com/)
@@ -111,6 +115,7 @@ date_modified = 2024-03-09
 ## Environment > Interior Design
 
 - [Contemporary, Mid Century & Modern Furniture | Article](https://www.article.com/)
+- [Galanter & Jones: Heated Furniture](https://galanterandjones.com/)
 - [Indoor Plants/Houseplants](https://www.wegmansnursery.com/care-guides/indoor-plants/indoor-plants-houseplants)
 - [Make your own lamp. - Creativity post - Imgur](https://imgur.com/gallery/PcFb1)
 - [Old vs. New Growth Trees and the Wood Products they Make](https://hullworks.com/wood/)
@@ -138,6 +143,7 @@ date_modified = 2024-03-09
 - [Sprawl Repair | DPZ Initiatives](http://web.archive.org/web/20140831193143/https://www.dpz.com/Initiatives/SprawlRepair)
 - [The Decline of Mass Transit](https://www.templetons.com/brad/robocars/transit-ends.html)
 - [The Pandemic is Making the Suburbs Even More Appealing - The Atlantic](https://www.theatlantic.com/technology/archive/2020/06/pandemic-suburbs-are-best/613300/)
+- [The Resilient Decision Intelligence Platform | UrbanFootprint](https://urbanfootprint.com/)
 - [The cities stripping out concrete for earth and plants](https://www.bbc.com/future/article/20240222-depaving-the-cities-replacing-concrete-with-earth-and-plants)
 - [What if Everyone Lived in Just One City? - YouTube](https://www.youtube.com/watch?v=r_iNRGac_uM&list=LL)
 - [Why building walkable cities is the key to economic success - Curbed](https://archive.curbed.com/2019/6/24/18715939/real-estate-development-walkable-urbanism)
@@ -205,6 +211,7 @@ date_modified = 2024-03-09
 - [Cory Dransfeldt](https://coryd.dev/)
 - [David Shapiro](https://www.daveshap.io/home)
 - [Derek Sivers](https://sive.rs/)
+- [Devon Zuegel](https://devonzuegel.com/page/about-me)
 - [Eric Coleman](https://epiccoleman.com/)
 - [Erik Schluntz](https://erikschluntz.com/)
 - [Felix Krause](https://krausefx.com/)
@@ -260,6 +267,8 @@ date_modified = 2024-03-09
 
 # Philosophy
 
+- [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
+- [Daniel-isms: 50 Ideas for Life I Repeatedly Share – Daniel Frank](https://danfrank.ca/daniel-isms-50-ideas-for-life-i-repeatedly-share/)
 - [Hedonism, Asceticism and the Hermetic Answer | Luke's Webpage](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/)
 - [Modern "Freedom" Means Being a Slave to Impulses | Luke's Webpage](https://lukesmith.xyz/articles/modern-freedom-means-being-a-slave-to-impulses/)
 - [The War on Informality - by Brett Scott](https://brettscott.substack.com/p/the-war-on-informality)
@@ -332,12 +341,28 @@ date_modified = 2024-03-09
 
 - [GitHub - davabase/whisper_real_time: Real time transcription with OpenAI Whisper.](https://github.com/davabase/whisper_real_time)
 - [GitHub - ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
+- [Ollama](https://ollama.com/)
 - [Phind](https://www.phind.com/search?home=true)
 - [Rewind](https://www.rewind.ai/)
 - [SlidesGPT - AI PowerPoint Presentations, Powered by ChatGPT API](https://slidesgpt.com/)
 - [VideoGist - Delightful AI Video Summaries](https://www.videogist.co/)
 - [richardanaya/gbnf: A library for working with GBNF files](https://github.com/richardanaya/gbnf)
+- [summarize.tech: AI-powered video summaries](https://www.summarize.tech/)
 - [upscayl/upscayl: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
+
+### Software > AI > Imagery
+
+- [layerdiffusion/sd-forge-layerdiffusion: [WIP] Layer Diffusion for WebUI (via Forge)](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
+
+## Software > CLI
+
+- [A curated list of command-line utilities written in Rust](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
+- [GitHub - atuinsh/atuin: ✨ Magical shell history](https://github.com/atuinsh/atuin)
+- [GitHub - swsnr/mdcat: cat for markdown](https://github.com/swsnr/mdcat)
+- [Termius - SSH platform for Mobile and Desktop](https://www.termius.com/)
+- [andrew-quinn.me/fzf/](https://andrew-quinn.me/fzf/)
+- [sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat)
+- [sharkdp/vivid: A themeable LS_COLORS generator with a rich filetype datebase](https://github.com/sharkdp/vivid)
 
 ## Software > Creativity
 
@@ -356,7 +381,10 @@ date_modified = 2024-03-09
 
 - [GitHub - mla/pg_sample: PostgreSQL utility for creating a small, sample database from a larger one](https://github.com/mla/pg_sample)
 - [Neon — Serverless, Fault-Tolerant, Branchable Postgres](https://neon.tech/)
+- [Pigsty](https://pigsty.io/)
+- [mathaou/termdbms: A TUI for viewing and editing database files.](https://github.com/mathaou/termdbms)
 - [oguimbal/pg-mem: An in memory postgres DB instance for your unit tests](https://github.com/oguimbal/pg-mem)
+- [pg_analytics: Transforming Postgres into a Fast OLAP Database - ParadeDB](https://blog.paradedb.com/pages/introducing_analytics)
 - [pg_analytics: Transforming Postgres into a Fast OLAP Database - ParadeDB](https://blog.paradedb.com/pages/introducing_analytics)
 - [valeriansaliou/sonic: 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.](https://github.com/valeriansaliou/sonic)
 
@@ -374,6 +402,7 @@ date_modified = 2024-03-09
 - [Awesome Open Source Games | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/michelpereira/awesome-open-source-games)
 - [Card-Forge/forge: An unofficial rules engine for the world's greatest card game.](https://github.com/Card-Forge/forge)
 - [GitHub - CorsixTH/CorsixTH: Open source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
+- [Home | PaperMC](https://papermc.io/)
 - [Software Library: Flash : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/softwarelibrary_flash)
 
 ## Software > Geospatial
@@ -382,6 +411,7 @@ date_modified = 2024-03-09
 - [Felt - The best way to work with maps on the internet](https://felt.com/product)
 - [Geospatial NIX - create, use and deploy today ...](https://geospatial-nix.today/)
 - [GitHub - felt/tippecanoe: Build vector tilesets from large collections of GeoJSON features.](https://github.com/felt/tippecanoe)
+- [GitHub - organicmaps/organicmaps: 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!](https://github.com/organicmaps/organicmaps)
 - [GitHub - protomaps/PMTiles: Cloud-optimized + compressed single-file tile archives for vector and raster maps](https://github.com/protomaps/PMTiles)
 - [Overland GPS Tracking App for iPhone](https://overland.p3k.app/)
 - [Protomaps | A free and open source map of the world](https://protomaps.com/)
@@ -442,8 +472,10 @@ date_modified = 2024-03-09
 ## Tech > Cloud
 
 - [Deploying an Express Application to AWS Lambda, the easy way | by Alexis Hevia | Medium](https://medium.com/@alexishevia/deploying-an-express-application-to-aws-lambda-the-easy-way-fa5fbef190ba)
+- [Deterministic Simulation Testing for Our Entire SaaS - WarpStream - Stream More, Manage Less](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
 - [How I Left The Cloud : r/selfhosted](https://www.reddit.com/r/selfhosted/comments/196nke8/how_i_left_the_cloud/)
 - [How to recover from microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
+- [Microservices - YouTube](https://www.youtube.com/watch?v=y8OnoxKotPQ&list=LL)
 - [What a typical 100% Serverless Architecture looks like in AWS! | by Xavier Lefèvre | Serverless Transformation | Medium](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
 
 ## Tech > Crypto
@@ -465,6 +497,7 @@ date_modified = 2024-03-09
 - [Data denormalization is broken | HackerNoon](https://hackernoon.com/data-denormalization-is-broken-7b697352f405)
 - [Flexible Schemas Are The Mindkiller — Ludicity](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
 - [Multiple Aggregates in One Query - Database Tip](https://sqlfordevs.com/multiple-aggregates-in-one-query)
+- [Postgres is eating the database world | by Vonng | Mar, 2024 | Medium](https://pigsty.io/blog/pg/pg-eat-db-world/)
 - [Scaling SQLite to 4M QPS on a Single Server (EC2 vs Bare Metal)](https://use.expensify.com/blog/scaling-sqlite-to-4m-qps-on-a-single-server)
 - [The Ultimate Guide to PostgreSQL Data Change Tracking | Medium](https://exaspark.medium.com/the-ultimate-guide-to-postgresql-data-change-tracking-c3fa88779572)
 - [Things that don’t work well with MySQL’s FOREIGN KEY implementation – code.openark.org](https://code.openark.org/blog/mysql/things-that-dont-work-well-with-mysqls-foreign-key-implementation)
@@ -477,16 +510,22 @@ date_modified = 2024-03-09
 - [The Search for a FLOSS Mobile OS (Aug 2021) — Emacsen's Blog](https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/)
 - [What it feels like to be an open-source maintainer | Read the Tea Leaves](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
 - [Why Open Source Misses the Point of Free Software - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html)
+- [awesome-oss-monetization | 🏆 A curated list of monetization approaches for open-source software. Feedback welcome!](https://paydevs.github.io/awesome-oss-monetization/)
 - [blog.fidelramos.net – My free-software photography workflow](https://blog.fidelramos.net/photography/photography-workflow)
+- [gofoss.net - Digital freedom for all](https://gofoss.net/)
 
 ### Tech > FOSS > Linux
 
 - [A new wave of Linux applications](https://tuxphones.com/convergent-linux-phone-apps/)
+- [Are we Wayland yet?](https://arewewaylandyet.com/)
 - [Do you really want Linux phones](https://blog.brixit.nl/do-you-really-want-linux-phones/)
+- [Editorial - Linux Gaming's Ticking Clock | GamingOnLinux](https://www.gamingonlinux.com/2020/05/linux-gaming-ticking-clock/)
 - [Hamblingreen's Pinephone Setup](http://web.archive.org/web/20221129015946/https://hamblingreen.gitlab.io/2022/03/02/my-pinephone-setup.html)
 - [It’s official! Linux is ready for Mom and Pops! - Let’s Debug It!](https://letsdebug.it/post/16-linux-for-mars-copters-moms-and-pops/)
+- [LFS Project Homepage](https://www.linuxfromscratch.org/lfs/)
 - [Linux Security Hardening and Other Tweaks](https://vez.mrsk.me/linux-hardening.html)
 - [My workflow as an embedded Linux developer](https://connolly.tech/posts/2022_07_20-aosp-vscode/)
+- [The unreasonable effectiveness of i3, or: ten years of a boring desktop environment](https://blog.waleson.com/2024/03/the-unreasonable-effectiveness-of-i3-or.html)
 
 ## Tech > Frontend
 
@@ -501,8 +540,10 @@ date_modified = 2024-03-09
 ## Tech > Geospatial
 
 - [Calculating Position from Raw GPS Data | Telesens](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
+- [Generating a 3D map with OpenStreetMap and A-Frame | Programming | mary.codes](https://mary.codes/blog/programming/generating_a_vr_map_with_osm_and_aframe/)
 - [Host a planet-scale geocoder for $10/month — ellen's disorganized thoughts](https://blog.ellenhp.me/host-a-planet-scale-geocoder-for-10-month)
 - [How The Post is replacing Mapbox with open source solutions - Kevin Schaul](https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/)
+- [How to use PostgreSQL for (military) geoanalytics tasks · Taras Kloba's](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
 - [Release Notes: How to make self-hosted maps that work everywhere and cost next to nothing • MuckRock](https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/)
 - [To Know Where You Are; High Precision Mapping From Scratch – Ben Dauphinee](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
 - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly | Programming | mary.codes](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
@@ -514,6 +555,7 @@ date_modified = 2024-03-09
 - [ChromaTags: An Accurate, Robust, and Fast Fiducial System](https://austingwalters.com/chromatags/)
 - [EV Charging Connectors Come In Many Shapes And Sizes | Hackaday](https://hackaday.com/2022/04/28/ev-charging-connectors-come-in-many-shapes-and-sizes/)
 - [FarmBot | Open-Source CNC Farming](https://farm.bot/)
+- [Gridfinity :: Unofficial wiki | Gridfinity](https://gridfinity.xyz/)
 - [Home Assistant Security Guardian BOT - Part 1 - YouTube](https://www.youtube.com/watch?v=2BBThH_CpSE&list=LL)
 - [How and Why I Stopped Buying New Laptops | LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
 - [SwitchBot Official Website - Your Simple Switch to a Smart Home – SwitchBot International](https://www.switch-bot.com/)
@@ -540,6 +582,7 @@ date_modified = 2024-03-09
 ## Tech > Security
 
 - [Computer Security and Privacy](https://www.billdietrich.me/ComputerSecurityPrivacy.html)
+- [Google's Threat model for Post-Quantum Cryptography - Google Bug Hunters](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
 - [How to explain zero-knowledge protocols to your children - 628.pdf](https://pages.cs.wisc.edu/~mkowalcz/628.pdf)
 - [Linux | Madaidan's Insecurities](https://madaidans-insecurities.github.io/linux.html)
 - [Maybe you should store passwords in plaintext. | QWORD](https://www.qword.net/2023/04/30/maybe-you-should-store-passwords-in-plaintext)
@@ -550,12 +593,22 @@ date_modified = 2024-03-09
 - [Use KeePassXC to sign your git commits](https://code.mendhak.com/keepassxc-sign-git-commit-with-ssh/)
 - [Why we don't offer PGP | Fastmail | Fast, Private Email](https://www.fastmail.com/blog/why-we-dont-offer-pgp/)
 
+## Tech > Video
+
+- [First-person Hyperlapse Videos - YouTube](https://www.youtube.com/watch?list=LL&v=SOpwHaQnRSY&feature=youtu.be)
+- [I have a "TV channel" app running on a Raspberry Pi serving up local video conte... | Hacker News](https://news.ycombinator.com/item?id=35740334)
+- [leandromoreira/digital_video_introduction: A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸](https://github.com/leandromoreira/digital_video_introduction)
+
 ## Tech > Web
 
 - [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 - [Against an Increasingly User-Hostile Web - Neustadt.fr](https://neustadt.fr/essays/against-a-user-hostile-web/)
+- [Are We Watching The Internet Die?](https://www.wheresyoured.at/are-we-watching-the-internet-die/)
+- [Homepage Design: 5 Fundamental Principles](https://www.nngroup.com/articles/homepage-design-principles/)
+- [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 - [The Old Internet Shows Signs of Quietly Coming Back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
 - [Web Scraping in Python - The Complete Guide | ProxiesAPI](https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide)
+- [Why and how to write things on the Internet | benkuhn.net](https://www.benkuhn.net/writing/)
 
 # Travel
 
@@ -568,13 +621,10 @@ date_modified = 2024-03-09
 
 # Uncategorized
 
-- [A curated list of command-line utilities written in Rust](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
 - [A curated list of linux laptop and desktop vendors](https://linuxpreloaded.com/)
 - [A look at search engines with their own indexes - Seirdy](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 - [Alternatives to Bloatware](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
-- [Are we Wayland yet?](https://arewewaylandyet.com/)
 - [Awesome Wallpapers - wallhaven.cc](https://wallhaven.cc/)
-- [Be in the desires market, not the solutions market - Inverted Passion](https://invertedpassion.com/jobs-to-be-done/)
 - [Behind F1's Velvet Curtain](https://web.archive.org/web/20240301170542/https://www.roadandtrack.com/car-culture/a46975496/behind-f1-velvet-curtain/)
 - [Blog - RNTF](https://rntfnd.org/blog/)
 - [Brickit — Build new things from your good old bricks](https://brickit.app/)
@@ -582,43 +632,31 @@ date_modified = 2024-03-09
 - [Dogsheep](https://github.com/dogsheep)
 - [Downsides of Local First / Offline First | RxDB - JavaScript Database](https://rxdb.info/downsides-of-offline-first.html)
 - [EasyMQTT](https://www.easymqtt.app/)
-- [Editorial - Linux Gaming's Ticking Clock | GamingOnLinux](https://www.gamingonlinux.com/2020/05/linux-gaming-ticking-clock/)
 - [Ente - Private cloud for your photos, videos and more](https://ente.io/#features)
 - [Ente - Private cloud for your photos, videos and more](https://ente.io/)
-- [Financial Solutions & Resources for Self-Employed Businesses](https://www.collective.com/)
-- [First-person Hyperlapse Videos - YouTube](https://www.youtube.com/watch?list=LL&v=SOpwHaQnRSY&feature=youtu.be)
 - [Fonoster](https://fonoster.com/)
 - [FreedomBox - Personal Server at Home](https://freedombox.org/)
 - [GPS, UTC, and TAI Clocks](http://www.leapsecond.com/java/gpsclock.htm)
-- [Generating a 3D map with OpenStreetMap and A-Frame | Programming | mary.codes](https://mary.codes/blog/programming/generating_a_vr_map_with_osm_and_aframe/)
 - [GitHub - Textualize/frogmouth: A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
-- [GitHub - atuinsh/atuin: ✨ Magical shell history](https://github.com/atuinsh/atuin)
 - [GitHub - erikw/vim-keybindings-everywhere-the-ultimate-list: The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
 - [GitHub - nadermx/backgroundremover: Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.](https://github.com/nadermx/backgroundremover)
-- [GitHub - organicmaps/organicmaps: 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!](https://github.com/organicmaps/organicmaps)
 - [GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
-- [GitHub - swsnr/mdcat: cat for markdown](https://github.com/swsnr/mdcat)
 - [GitHub - tutim-io/tutim: The open-source wizard form infrastructure for web applications](https://github.com/tutim-io/tutim)
 - [GitHub - yuhonas/free-exercise-db: Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend](https://github.com/yuhonas/free-exercise-db)
-- [Gridfinity :: Unofficial wiki | Gridfinity](https://gridfinity.xyz/)
 - [Guide to Multistreaming: How to Stream on Multiple Platforms – Restream Blog](https://restream.io/blog/how-to-multistream/)
 - [Home - zrok](https://zrok.io/)
 - [Home | Open Source Ecology](https://www.opensourceecology.org/)
 - [How I keep myself Alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
-- [I have a "TV channel" app running on a Raspberry Pi serving up local video conte... | Hacker News](https://news.ycombinator.com/item?id=35740334)
 - [India, Jio, and the Four Internets – Stratechery by Ben Thompson](https://stratechery.com/2020/india-jio-and-the-four-internets/)
-- [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)
 - [JMP: Your phone number on every device](https://jmp.chat/)
 - [Kagi Search - A Premium Search Engine](https://kagi.com/)
 - [Keybr Typing Practice](https://www.keybr.com/)
-- [LFS Project Homepage](https://www.linuxfromscratch.org/lfs/)
 - [LibreTranslate - Free and Open Source Machine Translation API 🌐](https://libretranslate.com/)
 - [Little Big Details - The details are not the details](https://littlebigdetails.com/)
 - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/)
 - [ManualsLib - Makes it easy to find manuals online!](https://www.manualslib.com/)
 - [Marp: Markdown Presentation Ecosystem](https://marp.app/)
 - [Mattermost | Collaboration for Your Mission-Critical Work](https://mattermost.com/)
-- [Microservices - YouTube](https://www.youtube.com/watch?v=y8OnoxKotPQ&list=LL)
 - [Modal: High-performance cloud for developers](https://modal.com/)
 - [NixOS: Everything, Everywhere, All At Once](https://github.com/0atman/noboilerplate/blob/main/scripts/38-nixos.md)
 - [Paku for PurpleAir on the App Store](https://apps.apple.com/us/app/paku-for-purpleair/id1534130193)
@@ -634,12 +672,10 @@ date_modified = 2024-03-09
 - [SymPy](https://www.sympy.org/en/index.html)
 - [TSDiagram - Diagrams as code with TypeScript](https://tsdiagram.com/#)
 - [Tabular — Free email template builder to build responsive emails](https://tabular.email/)
-- [Termius - SSH platform for Mobile and Desktop](https://www.termius.com/)
 - [The Four Hobbies, and Apparent Expertise - Marc's Blog](https://brooker.co.za/blog/2023/04/20/hobbies.html)
 - [The Quest for a Dumber Phone](https://every.to/cybernaut/the-quest-for-a-dumber-phone)
-- [The Resilient Decision Intelligence Platform | UrbanFootprint](https://urbanfootprint.com/)
-- [The unreasonable effectiveness of i3, or: ten years of a boring desktop environment](https://blog.waleson.com/2024/03/the-unreasonable-effectiveness-of-i3-or.html)
 - [The unreasonable effectiveness of just showing up everyday | Typesense](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
+- [Timelock Encryption: Send a secret into the future](https://timelock.dev/)
 - [ToolJet/ToolJet: Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀](https://github.com/ToolJet/ToolJet)
 - [Trigger.dev | The open source background jobs framework](https://trigger.dev/)
 - [Two fediverses, one network – Pawlicker's Pleroma Experiment Blog](https://pleromanonx86.wordpress.com/2023/11/22/two-fediverses-one-network/)
@@ -648,23 +684,15 @@ date_modified = 2024-03-09
 - [Well, to be fair, I have been using RSS since the '90s, and it wasn't an overnig... | Hacker News](https://news.ycombinator.com/item?id=35756673)
 - [Whisky-App/Whisky: A modern Wine wrapper for macOS built with SwiftUI](https://github.com/Whisky-App/Whisky)
 - [Zulip — organized team chat](https://zulip.com/)
-- [andrew-quinn.me/fzf/](https://andrew-quinn.me/fzf/)
-- [awesome-oss-monetization | 🏆 A curated list of monetization approaches for open-source software. Feedback welcome!](https://paydevs.github.io/awesome-oss-monetization/)
 - [diegopvlk/Dosage at news.itsfoss.com](https://github.com/diegopvlk/Dosage?ref=news.itsfoss.com)
 - [eschluntz/compress: Text compression for generating keyboard expansions](https://github.com/eschluntz/compress)
 - [fastenhealth/fasten-onprem: Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics](https://github.com/fastenhealth/fasten-onprem)
-- [gofoss.net - Digital freedom for all](https://gofoss.net/)
+- [flox/flox: Developer environments you can take with you](https://github.com/flox/flox)
 - [iiSM.org](https://iism.org/article/why-are-ceos-failing-software-engineers-56)
 - [jovandeginste/workout-tracker: A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities](https://github.com/jovandeginste/workout-tracker)
-- [layerdiffusion/sd-forge-layerdiffusion: [WIP] Layer Diffusion for WebUI (via Forge)](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
-- [leandromoreira/digital_video_introduction: A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸](https://github.com/leandromoreira/digital_video_introduction)
-- [mathaou/termdbms: A TUI for viewing and editing database files.](https://github.com/mathaou/termdbms)
 - [maxent-ai/ocrpy: OCR, Archive, Index and Search: Implementation agnostic OCR framework.](https://github.com/maxent-ai/ocrpy)
 - [mljar/mljar-supervised: Python package for AutoML on Tabular Data with Feature Engineering, Hyper-Parameters Tuning, Explanations and Automatic Documentation](https://github.com/mljar/mljar-supervised)
 - [novuhq/novu: 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀](https://github.com/novuhq/novu)
 - [numtide/devshell: Per project developer environments](https://github.com/numtide/devshell)
-- [sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat)
-- [sharkdp/vivid: A themeable LS_COLORS generator with a rich filetype datebase](https://github.com/sharkdp/vivid)
-- [summarize.tech: AI-powered video summaries](https://www.summarize.tech/)
 - [tiangolo/fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi)
 - [watsonbox/exportify: Export/Backup Spotify playlists using the Web API](https://github.com/watsonbox/exportify)

@@ -30,15 +30,17 @@ todo: add commentary to key items
 - Laptop Stand: Rain Design Silver Laptop Stand [Amazon](https://amzn.to/3vAUA7k)
 - Laptop/Phone Charger: Apple MacbookPro USB-C Charger and Cable
 
+## Desktop
+
+- AMD Ryzen 7 5800x [Amazon](https://amzn.to/43yIzfx)
+- NVIDIA RTX 3080 Suprim X [Amazon](https://amzn.to/3xb4NrP)
+- G.SKILL Ripjaws V 16GB DDR4 RAM [Amazon](https://amzn.to/3TzeaZX)
+- ASUS TUF Gaming B550M-PLUS Motherboard w/ WiFi [Amazon](https://amzn.to/3TuZCdF)
+- Corsair CX750M Power Supply [Amazon](https://amzn.to/3PzOET6)
+- Cooler Master Hyper 212 EVO CPU Cooler [Amazon](https://amzn.to/3PBOH0v)
+- Cooler Master MasterBox Q300L Micro-ATX Case [Amazon](https://amzn.to/3TQtfaE)
+
 ==========
-
-
-
-
-Desktop
-
-
------
 
 My Smart Home Setup
 

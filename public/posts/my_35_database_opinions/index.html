@@ -39,7 +39,7 @@ Pick relational databases by default. “NoSQL” means “another one-off query
 Like all opinions, some of these might be wrong, and some might be right. Some might only apply in certain circumstances. But these are the opinions I’ve formed over the last 5&#43; years on what databases to use, and how to use them.
 Pick relational databases by default. “NoSQL” means “another one-off query language to learn”. Only use alternative databases (MongoDB, Redis, Cassandra, etc."><meta itemprop="datePublished" content="2024-03-11T23:11:22-07:00" />
 <meta itemprop="dateModified" content="2024-03-11T23:11:22-07:00" />
-<meta itemprop="wordCount" content="591"><meta itemprop="image" content="http://localhost:1313/images/share.png" />
+<meta itemprop="wordCount" content="588"><meta itemprop="image" content="http://localhost:1313/images/share.png" />
 <meta itemprop="keywords" content="" />
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
@@ -315,7 +315,7 @@ Pick relational databases by default. “NoSQL” means “another one-off query
 <li>Try to keep rows mostly immutable. Things about the row that frequently change should probably be modeled as appends to a separate table.</li>
 <li>Make relationships many-to-many by default unless you have a good reason otherwise.</li>
 <li>Your many-to-many relationship tables should store metadata about the relationship. e.g. Users-to-Companies table that also store’s each employee’s job title at each company.</li>
-<li>Soft-mark things as deleted instead of hard deleting. If hard deleting, at least soft delete first and wait a period of time before hard deleting.</li>
+<li>Hard delete things. <a href="https://blog.bemi.io/soft-deleting-chaos/">Soft-deleting can lead to problems.</a> Keep an audit log of all changes (creates/updates/deletes) that lets you &ldquo;undo&rdquo; if needed.</li>
 <li>If data needs to be redacted, just overwrite individual columns with “REDACTED”, rather than deleting the row.</li>
 <li>Use SQLite for local, single-user applications.</li>
 <li>Use PostgreSQL for remote and multi-user applications.</li>

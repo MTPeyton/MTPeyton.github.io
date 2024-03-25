@@ -1,5 +1,5 @@
 +++
-title = 'Why I Switched From Local Plaintext Accounting to SaaS'
+title = 'Why I Switched From Local Plaintext Accounting to a SaaS'
 date = 2024-02-25T23:08:10-08:00
 date_modified = 2024-02-25T23:08:10-08:00
 +++

@@ -1,7 +1,7 @@
 +++
 title = 'Hardware and Software I Use in 2024'
-date = 2024-03-24T20:35:27-07:00
-date_modified = 2024-03-24T20:35:27-07:00
+date = 2024-03-25T18:35:27-07:00
+date_modified = 2024-03-25T18:35:27-07:00
 draft = true
 +++
 
@@ -51,6 +51,8 @@ todo: bold the things before the colon
 - Phone: iPhone 15 Pro [Apple](https://www.apple.com/shop/buy-iphone/iphone-15-pro)
 - Phone Case: SuydanBox Case Grey Brown [Amazon](https://amzn.to/3TzjTP8)
 - Battery Pack: Anker 5,000mAh Magnetic Wireless Charger [Amazon](https://amzn.to/3IPujoY)
+
+## Smart Home
 
 ==========
 

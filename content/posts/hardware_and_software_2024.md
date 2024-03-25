@@ -9,27 +9,32 @@ DRAFT!
 
 *Some of the links on this page are affiliate links. If you purchase something from them, I get a small commission. I only list things I actually use.*
 
+# Hardware
+
+# Desk Setup
+
+- Office Chair: Steelcase Gesture [Amazon](https://www.amazon.com/Steelcase-442A40-5S25-Gesture-Graphite/dp/B016OIF2JU?dib=eyJ2IjoiMSJ9.eOtoDZVwar3G4EVPju5_QMJbim99hgz9D0La0E8PNZvB9uPQcg0iG5srYj-pjnBZ08Z0DwCVrWzKMqB0eHPrA5cipkHKNbqzif0M6Z5jgc071-soTOZkFfur3p98ZE6hvFoUGQCbmbSmYGucLHVcoH5sNmaa2ZfT1X3pXsNhz8ixcqssmoRTGEZdVv_73iVBXhOCnGPN4nH6ee4dvxmWeQ5Ysx0ylY9PMshtbedgOLGygr-r_7aMW7yDzndQvYkRc72rcRLNZhhPzJVIvbpGtIANSA6-2a_jEBlk4knbAoI.flwKJD5C6wWP-TcQHut2Zf9N2TvepQ4drLoF7eCrOIU&dib_tag=se&keywords=steelcase%2Bgesture&qid=1711343035&sr=8-5&th=1&linkCode=sl1&tag=mpeyton0e-20&linkId=4c98ed443b32456bb9753923ebbc6f20&language=en_US&ref_=as_li_ss_tl)
+- Desk: Fully Jarvis Bamboo Standing Desk [Herman Miller - Fully](https://store.hermanmiller.com/standing-desks/jarvis-bamboo-standing-desk/2542428.html?lang=en_US)
+- Desk Mat: Silver Dual Sided Leather Desk Pad [Amazon](https://amzn.to/43zzTFK)
+- Keyboard: Code Keyboard [Code Keyboard](https://codekeyboards.com/)
+- Keyboard Wrist Rest: Gimars memory Foam Keyboard Wrist Rest [Amazon](https://amzn.to/4cyy6Vt)
+- Mouse: Logitech G502 [Amazon](https://amzn.to/3ITnHpM)
+
+- Laptop Stand: Rain Design Silver Laptop Stand [Amazon](https://amzn.to/3vAUA7k)
+- Laptop/Phone Charger: Apple MacbookPro USB-C Charger and Cable
+
 ==========
 
-My Desk Setup
 
-Office Furniture
-Desk
-Desk mat
-Keyboard wrist rest
-Office chair
-Chair mat
-Laptop stand
 
-Desk Hardware
+
 Desktop
 Monitor
-Keyboard
-Mouse
+monitor stand
 webcam
 Usb hub
 Headphones
-Laptop+phone charger
+
 
 -----
 
@@ -48,6 +53,7 @@ Around apartment
 smart zigbee light bulbs
 lamps that are compatible with smart bulbs
 awair element
+coway air purifier
 
 Home auto Software
 home assistant

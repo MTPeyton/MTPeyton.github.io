@@ -11,6 +11,8 @@ todo: add commentary to key items
 
 todo: bold the things before the colon
 
+todo: add software links
+
 *Some of the links on this page are affiliate links. If you purchase something from them, I get a small commission. I only list things I actually use.*
 
 # Hardware
@@ -88,28 +90,46 @@ minecraft server to see if anyone is on friend's minecraft server
 
 -----
 
-Desktop software
-arch linux
-kde plasma
-dolphin file manager
-firefox
-chromium
-vscodium
-beekeeper studio
-lutris
-kitty terminal
-flatpak+flatseal
-Bottles
-Steam
-Godot
-Minecraft java edition
-spectacle screenshots
-syncthing
+## Desktop Software
+- OS: Arch Linux
+- Desktop Environment: KDE Plasma
+- File Manager: Dolphin
+- Terminal: Kitty
+- Non-Steam Games: Flatpak + Flatseal + Bottles + Lutris
+- Steam Games: Steam
 
-Laptop + phone Software
-firefox
-ublock origin
-fastmail
+## Laptop Software
+
+- Editor: Vscodium
+- DB Administration: Beekeeper Studio Community Edition
+
+## Phone Software
+
+- 2FA App: Undisclosed
+
+## Multiplatform Software
+
+- Browser: Firefox + uBlock Origin
+- Email: FastMail
+- Password Manager: Undisclosed
+- Bank: Undisclosed
+- Investments: Undisclosed
+- Finance Tracker: Monarch Money
+- File Syncing: syncthing
+- RSS Reader: Newsblur
+- Music: Spotify
+- Books: Libby + Library Card
+- Streaming Services: YouTube + Netflix + Max + Disney+
+
+## Web Hosting
+
+- Cloud: Digital Ocean
+- Git: GitHub
+- Web Analytics: Plausible
+- Static Site Generator: Hugo
+
+-----
+
 apple calendar
 apple contacts
 notion
@@ -120,9 +140,6 @@ apple clock (alarms)
 apple reminders
 apple health
 apple wallet
-bank app (undisclosed)
-payments app (undisclosed)
-monarch money
 splitwise
 offerup
 apple maps
@@ -133,16 +150,6 @@ facetime
 signal
 whatsapp
 discord
-newsblur
 wikipedia
-spotify
-streaming services (netflix/disney+/max)
-steam
-libby
 shazam
-home assistant
-password manager (undicslosed)
-totp code app (undisclosed)
-plausible analytics
-digital ocean
-github
+home assistant client app

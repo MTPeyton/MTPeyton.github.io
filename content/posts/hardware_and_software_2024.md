@@ -9,6 +9,8 @@ DRAFT!
 
 todo: add commentary to key items
 
+todo: bold the things before the colon
+
 *Some of the links on this page are affiliate links. If you purchase something from them, I get a small commission. I only list things I actually use.*
 
 # Hardware
@@ -39,6 +41,16 @@ todo: add commentary to key items
 - Corsair CX750M Power Supply [Amazon](https://amzn.to/3PzOET6)
 - Cooler Master Hyper 212 EVO CPU Cooler [Amazon](https://amzn.to/3PBOH0v)
 - Cooler Master MasterBox Q300L Micro-ATX Case [Amazon](https://amzn.to/3TQtfaE)
+
+## Mobile
+
+- Laptop: Apple M3 MacBook Pro [Apple](https://www.apple.com/shop/buy-mac/macbook-pro)
+- Laptop Case: MOSISO MacbookPro Case Frost [Amazon](https://amzn.to/3xivyKH)
+- Laptop Sleeve: Incase Laptop Sleeve [Amazon](https://amzn.to/3TNg7mL)
+  - Has held up really well over 7+ years!
+- Phone: iPhone 15 Pro [Apple](https://www.apple.com/shop/buy-iphone/iphone-15-pro)
+- Phone Case: SuydanBox Case Grey Brown [Amazon](https://amzn.to/3TzjTP8)
+- Battery Pack: Anker 5,000mAh Magnetic Wireless Charger [Amazon](https://amzn.to/3IPujoY)
 
 ==========
 
@@ -71,14 +83,6 @@ android tv remote
 awair
 homekit bridge to make available in ios
 minecraft server to see if anyone is on friend's minecraft server
-
------
-
-Mobile Hardware
-Laptop (macos)
-laptop sleeve
-Phone (ios)
-wireless battery pack
 
 -----
 

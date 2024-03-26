@@ -1,8 +1,8 @@
 +++
-title = 'Dreaming Up My Ideal Libre Computer+Phone'
+title = 'My Ideal Libre Computer+Phone'
 date = 2024-03-03T22:41:01-08:00
 date_modified = 2024-03-24T22:41:01-08:00
-aliases = ['/posts/the_computer_i_want']
+aliases = ['/posts/the_computer_i_want', '/posts/dreaming_up_my_ideal_libre_computer_phone']
 +++
 
 I have a very clear idea of what my "ideal" computer would be. It would incorporate all of the best aspects of the different computers (including smartphones!) I already use today, into a single machine.

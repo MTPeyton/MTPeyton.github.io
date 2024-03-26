@@ -1,7 +1,8 @@
 +++
 title = 'Hardware and Software I Use in 2024'
-date = 2024-03-25T18:35:27-07:00
-date_modified = 2024-03-25T18:35:27-07:00
+date = 2024-03-25T00:00:00-00:00
+date_modified = 2024-03-25T00:00:00-00:00
+aliases = ['/uses']
 draft = true
 +++
 
@@ -90,6 +91,8 @@ minecraft server to see if anyone is on friend's minecraft server
 
 -----
 
+# Software
+
 ## Desktop Software
 - OS: Arch Linux
 - Desktop Environment: KDE Plasma
@@ -106,20 +109,37 @@ minecraft server to see if anyone is on friend's minecraft server
 ## Phone Software
 
 - 2FA App: Undisclosed
+- Selling Stuff: Offerup
+- Air Quality: Paku (PurpleAir wrapper)
+- Music Identification: Shazam
+- Health Tracking: Apple Health
+- Cards: Apple Wallet
+- Ride Sharing: Uber + Lyft
+- Home Automation: Home Assistant Client App
 
 ## Multiplatform Software
 
 - Browser: Firefox + uBlock Origin
 - Email: FastMail
+- Calendar: Apple Calendar + iCloud
+- Contacts: Apple Contacts + iCloud
+- Notes: Apple Notes + iCloud + Notion
+- TODOs: Apple Reminders + iCloud
+- Photos: Apple Photos + iCloud
 - Password Manager: Undisclosed
 - Bank: Undisclosed
 - Investments: Undisclosed
 - Finance Tracker: Monarch Money
+- Maps: Apple Maps + Google Maps
+- Splitting Payments: Splitwise
 - File Syncing: syncthing
+- Messaging: iMessage + WhatsApp + Signal
+- Calls: Phone + FaceTime + Discord
 - RSS Reader: Newsblur
 - Music: Spotify
 - Books: Libby + Library Card
 - Streaming Services: YouTube + Netflix + Max + Disney+
+- Encyclopedia: Wikipedia
 
 ## Web Hosting
 
@@ -127,29 +147,3 @@ minecraft server to see if anyone is on friend's minecraft server
 - Git: GitHub
 - Web Analytics: Plausible
 - Static Site Generator: Hugo
-
------
-
-apple calendar
-apple contacts
-notion
-apple photos
-apple notes
-apple weather
-apple clock (alarms)
-apple reminders
-apple health
-apple wallet
-splitwise
-offerup
-apple maps
-paku
-uber / lyft
-imessage
-facetime
-signal
-whatsapp
-discord
-wikipedia
-shazam
-home assistant client app

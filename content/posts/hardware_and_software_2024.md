@@ -1,7 +1,7 @@
 +++
 title = 'Hardware and Software I Use in 2024'
-date = 2024-03-25T00:00:00-00:00
-date_modified = 2024-03-25T00:00:00-00:00
+date = 2024-03-26T00:00:00-00:00
+date_modified = 2024-03-26T00:00:00-00:00
 aliases = ['/uses']
 draft = true
 +++
@@ -57,9 +57,7 @@ todo: add software links
 
 ## Smart Home
 
-==========
-
-My Smart Home Setup
+TODO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 TV console
 tv console furniture
@@ -76,22 +74,15 @@ lamps that are compatible with smart bulbs
 awair element
 coway air purifier
 
-Home auto Software
-home assistant
-adguard home
-motioneye
-nodered
-studio code server
-zwave js
-zigbee
-android tv remote
-awair
-homekit bridge to make available in ios
-minecraft server to see if anyone is on friend's minecraft server
-
------
-
 # Software
+
+## Smart Home Software
+- Home Automation Server: Home Assistant
+- Network Adblocker: Adguard Home
+- Network Video Recorder: Motioneye
+- Automation Scripting: Nodered
+- Mesh Networks: Zwave + Zigbee
+- Smart TV Software: Google TV
 
 ## Desktop Software
 - OS: Arch Linux

@@ -10,7 +10,7 @@ Like all opinions, some of these might be wrong, and some might be right. Some m
 
 1. Pick relational databases by default. “NoSQL” means “another one-off query language to learn”.
 2. Only use alternative databases (MongoDB, Redis, Cassandra, etc.) if you REALLY REALLY need to.
-3. If your data is even SLIGHTLY relational, don’t use MongoDB. Aggregation pipelines don’t scale well.
+3. If your data is even SLIGHTLY relational, don’t use MongoDB. Aggregation pipeline lookups don’t scale well.
 4. “Schemaless” means that your schema is diffused throughout your codebase.
 5. Schemas can be trivially handled with a migration tool. (I use Alembic or Prisma)
 6. Keep your schemas aggressively normalized. De-normalized data is a nightmare to keep up-to-date.

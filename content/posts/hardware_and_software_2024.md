@@ -4,8 +4,6 @@ date = 2024-03-27T23:31:24-07:00
 date_modified = 2024-03-27T23:31:24-07:00
 +++
 
-# Hardware and Software I Use in 2024
-
 *Some of the links on this page are affiliate links. If you purchase something from them, I get a small commission. I only list things I actually use.*
 
 # Hardware

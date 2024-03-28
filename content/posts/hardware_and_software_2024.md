@@ -10,10 +10,6 @@ DRAFT!
 
 todo: add commentary to key items
 
-todo: bold the things before the colon
-
-todo: add software links
-
 *Some of the links on this page are affiliate links. If you purchase something from them, I get a small commission. I only list things I actually use.*
 
 # Hardware
@@ -78,64 +74,64 @@ todo: add software links
 # Software
 
 ## Smart Home Software
-- Home Automation Server: Home Assistant
-- Network Adblocker: Adguard Home
-- Network Video Recorder: Motioneye
-- Automation Scripting: Nodered
-- Mesh Networks: Zwave + Zigbee
-- Smart TV Software: Google TV
+- **Home Automation Server:** [Home Assistant](https://www.home-assistant.io/)
+- **Network Adblocker:** [Adguard Home](https://adguard.com/en/welcome.html)
+- **Network Video Recorder:** [Motioneye](https://github.com/motioneye-project/motioneye)
+- **Automation Scripting:** [Node-RED](https://nodered.org/)
+- **Mesh Networks:** Z-Wave + Zigbee
+- **Smart TV Software:** [Google TV](https://tv.google/)
 
 ## Desktop Software
-- OS: Arch Linux
-- Desktop Environment: KDE Plasma
-- File Manager: Dolphin
-- Terminal: Kitty
-- Non-Steam Games: Flatpak + Flatseal + Bottles + Lutris
-- Steam Games: Steam
+- **OS:** [Arch Linux](https://archlinux.org/)
+- **Desktop Environment:** [KDE Plasma](https://kde.org/plasma-desktop/)
+- **File Manager:** [Dolphin](https://apps.kde.org/dolphin/)
+- **Terminal:** [Kitty](https://sw.kovidgoyal.net/kitty/)
+- **Non-Steam Games:** [Flatpak](https://www.flatpak.org/) + Flatseal + [Bottles](https://usebottles.com/) + [Lutris](https://lutris.net/)
+- **Steam Games:** [Steam](https://store.steampowered.com/)
 
 ## Laptop Software
 
-- Editor: Vscodium
-- DB Administration: Beekeeper Studio Community Edition
+- **Editor:** [Vscodium](https://vscodium.com/)
+- **DB Administration:** [Beekeeper Studio Community Edition](https://github.com/beekeeper-studio/beekeeper-studio)
 
 ## Phone Software
 
-- 2FA App: Undisclosed
-- Selling Stuff: Offerup
-- Air Quality: Paku (PurpleAir wrapper)
-- Music Identification: Shazam
-- Health Tracking: Apple Health
-- Cards: Apple Wallet
-- Ride Sharing: Uber + Lyft
-- Home Automation: Home Assistant Client App
+- **2FA App:** *Undisclosed*
+- **Selling Stuff:** [Offerup](https://offerup.com/)
+- **Air Quality:** [Paku](https://paku.app/) ([PurpleAir](https://www2.purpleair.com/) wrapper)
+- **Music Identification:** [Shazam](https://www.shazam.com/)
+- **Health Tracking:** Apple Health
+- **Cards:** Apple Wallet
+- **Ride Sharing:** Uber + Lyft
+- **Home Automation:** [Home Assistant Companion App](https://companion.home-assistant.io/)
 
 ## Multiplatform Software
 
-- Browser: Firefox + uBlock Origin
-- Email: FastMail
-- Calendar: Apple Calendar + iCloud
-- Contacts: Apple Contacts + iCloud
-- Notes: Apple Notes + iCloud + Notion
-- TODOs: Apple Reminders + iCloud
-- Photos: Apple Photos + iCloud
-- Password Manager: Undisclosed
-- Bank: Undisclosed
-- Investments: Undisclosed
-- Finance Tracker: Monarch Money
-- Maps: Apple Maps + Google Maps
-- Splitting Payments: Splitwise
-- File Syncing: syncthing
-- Messaging: iMessage + WhatsApp + Signal
-- Calls: Phone + FaceTime + Discord
-- RSS Reader: Newsblur
-- Music: Spotify
-- Books: Libby + Library Card
-- Streaming Services: YouTube + Netflix + Max + Disney+
-- Encyclopedia: Wikipedia
+- **Browser:** [Firefox](https://www.mozilla.org/en-US/firefox/new/) + [uBlock Origin](https://ublockorigin.com/)
+- **Email:** FastMail [Referral](https://ref.fm/u29809832)
+- **Calendar:** Apple Calendar + iCloud
+- **Contacts:** Apple Contacts + iCloud
+- **Notes:** Apple Notes + iCloud + Notion
+- **TODOs:** Apple Reminders + iCloud
+- **Photos:** Apple Photos + iCloud
+- **Password Manager:** *Undisclosed*
+- **Bank:** *Undisclosed*
+- **Investments:** *Undisclosed*
+- **Finance Tracker:** Monarch Money [Referral](https://www.monarchmoney.com/referral/1o7b8u5y8f)
+- **Maps:** Apple Maps + Google Maps
+- **Splitting Payments:** [Splitwise](https://www.splitwise.com/)
+- **File Syncing:** [syncthing](https://syncthing.net/)
+- **Messaging:** iMessage + WhatsApp + Signal
+- **Calls:** Phone + FaceTime + Discord
+- **RSS Reader:** [Newsblur](https://www.newsblur.com/)
+- **Music:** [Spotify](https://spotify.com/)
+- **Books:** [Libby](https://libbyapp.com) + Library Card
+- **Streaming Services:** YouTube + Netflix + Max + Disney+
+- **Encyclopedia:** [Wikipedia](https://www.wikipedia.org/)
 
 ## Web Hosting
 
-- Cloud: Digital Ocean
-- Git: GitHub
-- Web Analytics: Plausible
-- Static Site Generator: Hugo
+- **Cloud:** Digital Ocean [Referral](https://m.do.co/c/24abe0d00e81)
+- **Git:** [GitHub](https://github.com/)
+- **Web Analytics:** [Plausible](https://plausible.io)
+- **Static Site Generator:** [Hugo](https://gohugo.io/)

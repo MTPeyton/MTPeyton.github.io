@@ -59,20 +59,21 @@ todo: add software links
 
 TODO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-TV console
-tv console furniture
-TV (rokutv built in but unused)
-chromecast with google tv
-router (and modem, explain network setup)
-rasberry pi (running home assistant)
-comnbo mesh network usb dongle
-webcam as security camera
-
-Around apartment
-smart zigbee light bulbs
-lamps that are compatible with smart bulbs
-awair element
-coway air purifier
+- TV Console: Ikea Besta [Ikea](https://www.ikea.com/us/en/p/besta-tv-bench-with-doors-white-bjoerkoeviken-birch-veneer-s59422183/#content)
+- TV: TCL 55S425 55 inch 4K TV [Amazon](https://amzn.to/3vtwVpy)
+- Streaming Stick: Google Chromecast with Google TV (4K) [Amazon](https://amzn.to/3TVUArS)
+router
+modem
+- Home Server: Rasberry Pi 4 8GB [Amazon](https://amzn.to/4cwy5Bl)
+- PI Case: Flirc Rasberry Pi 4 Case [Amazon](https://amzn.to/3VBlXsP)
+- Mesh Network Hub: GoControl CECOMINOD016164 (Z-Wave + Zigbee) [Amazon](https://amzn.to/3IY7lMk)
+- Security Camera: Some random old Logitech webcam
+- Smart Bulbs: Sengled Smart Bulbs [Amazon](https://amzn.to/3TDBENi)
+- Lamp: Onewish Dimmable Lamp [Amazon](https://amzn.to/3Vxt71b)
+  - It's compatible with the above bulbs if you leave the physical dimmer at max.
+- Air Quality Sensor: Awair Element [Amazon](https://amzn.to/3TEsUq6)
+- Extra Environment Sensor: Aeotec Z-Wave Multisensor 6 [Amazon](https://amzn.to/3IXwU02)
+- Air Purifier: Coway Airmega AP-1512HH [Amazon](https://amzn.to/3PBP0sg)
 
 # Software
 

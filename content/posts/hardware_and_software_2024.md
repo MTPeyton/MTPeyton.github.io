@@ -1,7 +1,7 @@
 +++
 title = 'Hardware and Software I Use in 2024'
 date = 2024-03-27T23:31:24-07:00
-date_modified = 2024-03-27T23:31:24-07:00
+date_modified = 2024-03-30T23:31:24-07:00
 +++
 
 *Some of the links on this page are affiliate links. If you purchase something from them, I get a small commission. I only list things I actually use.*
@@ -10,7 +10,7 @@ date_modified = 2024-03-27T23:31:24-07:00
 
 ## Desk Setup
 
-- **Office Chair:** Steelcase Gesture [Amazon](https://www.amazon.com/Steelcase-442A40-5S25-Gesture-Graphite/dp/B016OIF2JU?dib=eyJ2IjoiMSJ9.eOtoDZVwar3G4EVPju5_QMJbim99hgz9D0La0E8PNZvB9uPQcg0iG5srYj-pjnBZ08Z0DwCVrWzKMqB0eHPrA5cipkHKNbqzif0M6Z5jgc071-soTOZkFfur3p98ZE6hvFoUGQCbmbSmYGucLHVcoH5sNmaa2ZfT1X3pXsNhz8ixcqssmoRTGEZdVv_73iVBXhOCnGPN4nH6ee4dvxmWeQ5Ysx0ylY9PMshtbedgOLGygr-r_7aMW7yDzndQvYkRc72rcRLNZhhPzJVIvbpGtIANSA6-2a_jEBlk4knbAoI.flwKJD5C6wWP-TcQHut2Zf9N2TvepQ4drLoF7eCrOIU&dib_tag=se&keywords=steelcase%2Bgesture&qid=1711343035&sr=8-5&th=1&linkCode=sl1&tag=mpeyton0e-20&linkId=4c98ed443b32456bb9753923ebbc6f20&language=en_US&ref_=as_li_ss_tl)
+- **Office Chair:** Steelcase Gesture [Amazon](https://amzn.to/3TDL9MG)
   - Superb office chair that's comfortable to sit in for hours.
 - **Foot Rest:** ErgoFoam Foot Rest [Amazon](https://amzn.to/3VxIQNz)
   - Helps with ergonomics. My chair and desk height normally leave my feet dangling.

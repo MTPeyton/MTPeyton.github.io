@@ -9,8 +9,15 @@
     <managingEditor>N/A (Matthew Peyton)</managingEditor>
     <webMaster>N/A (Matthew Peyton)</webMaster>
     <copyright>Copyright © 2017-2024 Matthew Peyton</copyright>
-    <lastBuildDate>Wed, 27 Mar 2024 23:31:24 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpinionMoji Traffic From HackerNews Comment</title>
+      <link>http://localhost:1313/posts/opinionmoji_traffic_from_hackernews_comment/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate><author>N/A (Matthew Peyton)</author>
+      <guid>http://localhost:1313/posts/opinionmoji_traffic_from_hackernews_comment/</guid>
+      <description>On March 26th, while I was eating lunch and reading HackerNews, I saw a thread where people were posting non-AI projects they were working on. On a whim, I decided to comment with a short description of and link to a tiny project I’ve been working on: OpinionMoji.&#xA;The resulting traffic bump was neat to watch. Lots of people talk of getting 10,000+ visits whenever you post something on HackerNews. However, this was more modest: about 205 visits that first day....</description>
+    </item>
     <item>
       <title>Hardware and Software I Use in 2024</title>
       <link>http://localhost:1313/posts/hardware_and_software_2024/</link>

@@ -6,7 +6,9 @@ date_modified = 2024-03-24T20:35:27-07:00
 
 # About Me
 
-I'm originally from Philadelphia, and now I live in the Bay Area.
+![Matt Peyton](/matt256.png)
+
+I'm originally from Philadelphia, and now live in the Bay Area.
 
 I graduated from UC Berkeley with a [BA in Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major) (concentration in [Urban Science](https://data.berkeley.edu/degrees/domain-emphasis/urban-science)) in 2019.
 

@@ -9,8 +9,15 @@
     <managingEditor>N/A (Matthew Peyton)</managingEditor>
     <webMaster>N/A (Matthew Peyton)</webMaster>
     <copyright>Copyright © 2017-2024 Matthew Peyton</copyright>
-    <lastBuildDate>Mon, 15 Apr 2024 22:46:29 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 22:34:37 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Automatically Make Rimworld Timelapses With FFMPEG</title>
+      <link>http://localhost:1313/posts/rimworld_timelapse_ffmpeg/</link>
+      <pubDate>Mon, 22 Apr 2024 22:34:37 -0700</pubDate><author>N/A (Matthew Peyton)</author>
+      <guid>http://localhost:1313/posts/rimworld_timelapse_ffmpeg/</guid>
+      <description>I&amp;rsquo;ve recently gotten (back) into playing Rimworld, and I wanted to make some nice timelapses of my bases. To that end, I realized I can use the Progress Renderer mod + FFMPEG to easily create MP4 video timelapses.&#xA;1. Setup Progress Renderer First you&amp;rsquo;ll want to install the Progress Renderer mod. Be careful, as there are two versions on Steam Workshop. This is the correct version and this is the outdated version....</description>
+    </item>
     <item>
       <title>I’ve Been Reaching For Typescript Over Python Lately</title>
       <link>http://localhost:1313/posts/typescript_over_python/</link>

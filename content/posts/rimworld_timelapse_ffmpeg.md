@@ -1,7 +1,7 @@
 +++
 title = 'How to Automatically Make Rimworld Timelapses With FFMPEG'
 date = 2024-04-22T22:34:37-07:00
-date_modified = 2024-04-22T22:34:37-07:00
+date_modified = 2024-04-23T22:34:37-07:00
 +++
 
 I've recently gotten (back) into playing Rimworld, and I wanted to make some nice timelapses of my bases. To that end, I realized I can use the Progress Renderer mod + FFMPEG to easily create MP4 video timelapses.
@@ -97,3 +97,5 @@ If you want to turn it into a GIF, you can also do that with this FFMPEG command
 Enjoy!
 
 ![Rimworld Timelapse GIF Test](/rimworldtimelapsegiftest.gif)
+
+*Update: I found another great post similar to this one with more advanced techniques [here](https://fwdekker.com/blog/creating-a-rimworld-timelapse/).*

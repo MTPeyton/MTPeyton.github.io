@@ -9,8 +9,15 @@
     <managingEditor>N/A (Matthew Peyton)</managingEditor>
     <webMaster>N/A (Matthew Peyton)</webMaster>
     <copyright>Copyright © 2017-2024 Matthew Peyton</copyright>
-    <lastBuildDate>Mon, 22 Apr 2024 22:34:37 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 21:24:20 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Top 100 Videogames</title>
+      <link>http://localhost:1313/posts/top_100_games/</link>
+      <pubDate>Sun, 05 May 2024 21:24:20 -0700</pubDate><author>N/A (Matthew Peyton)</author>
+      <guid>http://localhost:1313/posts/top_100_games/</guid>
+      <description>I decided to rank the top 100 videogames that I&amp;rsquo;ve played.&#xA;To make the ranking, I started by listing every videogame I&amp;rsquo;ve ever played. I did this through a combination of memory and Steam records.&#xA;I then fed all of those into ThingRanker. It&amp;rsquo;s a small Python program I wrote. It takes in a list of strings, and runs an arbitrary number of &amp;ldquo;matches&amp;rdquo; against random pairings of two strings. During each match, I choose which string I like better....</description>
+    </item>
     <item>
       <title>How to Automatically Make Rimworld Timelapses With FFMPEG</title>
       <link>http://localhost:1313/posts/rimworld_timelapse_ffmpeg/</link>

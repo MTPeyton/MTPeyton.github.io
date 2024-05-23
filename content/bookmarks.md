@@ -17,6 +17,7 @@ date_modified = 2024-03-19
 - [From bootstrapped to a $425 million exit - The Trello story](https://marketcurve.substack.com/p/from-bootstrapped-to-a-425-million)
 - [Here's How I Bootstrapped a SaaS to $10k MRR - Bannerbear](https://www.bannerbear.com/journey-to-10k-mrr/)
 - [Here's Why Firefox is Seeing a Continuous Decline for Last 12 Years](https://news.itsfoss.com/firefox-continuous-decline/)
+- [How Ahrefs Gets a Billion Dollar-Worth Infrastructure With a 90% Discount | by Efim Mirochnik | May, 2024 | Ahrefs](https://tech.ahrefs.com/how-ahrefs-gets-a-billion-dollar-worth-infrastructure-with-a-90-discount-5edd473b2399)
 - [How Superhuman Grows - by Jaryd Hermann - How They Grow](https://www.howtheygrow.co/p/how-superhuman-grows)
 - [How an Ugly Single-Page Website Makes $5,000 a Month with Affiliate Marketing](https://medium.com/@petervoica/how-an-ugly-single-page-website-makes-5-000-a-month-with-affiliate-marketing-c4974a8d1d69)
 - [I'm Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)
@@ -64,6 +65,7 @@ date_modified = 2024-03-19
 
 - [150 Places to Post Your Company's Startup - Loop](https://loopinput.com/150-places-to-post-your-companys-startup/)
 - [Be in the desires market, not the solutions market - Inverted Passion](https://invertedpassion.com/jobs-to-be-done/)
+- [Best subreddits for sharing your project | by Tereza Tizkova | Medium](https://tereza-tizkova.medium.com/best-subreddits-for-sharing-your-project-517c433442f9)
 - [Buffer: All-you-need social media toolkit for small businesses](https://buffer.com/)
 - [Don’t build your castle in other people’s kingdoms – How To Market A Game](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/)
 - [Easiest UTM Tags Builder - UTM Builder](https://utm-builder.shubhamjain.co/)
@@ -92,6 +94,7 @@ date_modified = 2024-03-19
 
 # Economics
 
+- [How The Economic Machine Works by Ray Dalio - YouTube](https://www.youtube.com/watch?v=PHe0bXAIuk0&list=LL)
 - [I'm Trying To Understand Hedonic Adjustments - Epsilon Theory](https://www.epsilontheory.com/im-trying-to-understand-hedonic-adjustments/)
 
 # Environment
@@ -102,10 +105,12 @@ date_modified = 2024-03-19
 - [Drones Are Poised to Reshape Home Design - WSJ](https://www.wsj.com/articles/drones-are-poised-to-reshape-home-design-11607194801)
 - [Future Materials Bank](https://www.futurematerialsbank.com/)
 - [How Google's page rank algorithm changes Architecture space](https://www.chokoon.com/post/how-google-s-page-rank-algorithm-changes-architectural-layout)
+- [SIDEWALKS (Old School vrs. New School) Mike Haduck - YouTube](https://www.youtube.com/watch?v=-5jpB2n58RM&list=LL)
 
 ## Environment > Climate
 
 - [California ISO - Today's Outlook](http://www.caiso.com/TodaysOutlook/Pages/default.aspx)
+- [Can we have a Trillion People on Earth? - YouTube](https://www.youtube.com/watch?v=8lJJ_QqIVnc&list=LL)
 - [Deadly Heat Threatens the Well-Being of 1 Billion People in India | WIRED](https://www.wired.com/story/extreme-heat-india/)
 - [How Climate Migration Will Reshape America - The New York Times](https://www.nytimes.com/interactive/2020/09/15/magazine/climate-crisis-migration-america.html)
 - [Law of the River in the US](http://web.mit.edu/12.000/www/m2012/finalwebsite/problem/coloradoriver.shtml#law)
@@ -129,6 +134,7 @@ date_modified = 2024-03-19
 
 ## Environment > Solarpunk
 
+- [Building a Solar Powered Workshop - YouTube](https://www.youtube.com/watch?v=xnSew-tCuPo&list=LL)
 - [Global Village Construction Set - Open Source Ecology](https://wiki.opensourceecology.org/wiki/Global_Village_Construction_Set)
 - [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/)
 
@@ -138,7 +144,12 @@ date_modified = 2024-03-19
 - [A Nobel-Winning Economist Goes to Burning Man - The New York Times](https://www.nytimes.com/2019/09/05/upshot/paul-romer-burning-man-nobel-economist.html)
 - [Arcology, Arcosanti, and Paolo Soleri’s Evolution of Cities – Urban Utopias](https://urbanutopias.net/2019/09/01/arcosanti/)
 - [As Post-COVID Small Businesses Struggle, ACUs Offer a Viable Solution — Neighborhood Workshop](https://www.neighborhoodworkshop.org/blog-posts/as-post-covid-small-business-struggles-acus-offer-a-viable-solution)
+- [California property map: Here's who owns every building in the state](https://www.sfchronicle.com/projects/2023/california-property-map/)
+- [Cities: Skylines, Astergea EP11 - The Serendipity Neighborhood feat. Jeff Speck - YouTube](https://www.youtube.com/watch?list=LL&v=lkdImAskYLM&feature=youtu.be)
+- [Ecumenopolises - YouTube](https://www.youtube.com/watch?v=XAJeYe-abUA&list=LL)
 - [Hellstrip Plantings: Creating Habitat in the Space Between the Sidewalk and the Curb - Ecological Landscape Alliance](https://www.ecolandscaping.org/05/designing-ecological-landscapes/native-plants/hellstrip-plantings-creating-habitat-in-the-space-between-the-sidewalk-and-the-curb/)
+- [Household Size and the Housing Stock - by Kevin Erdmann](https://kevinerdmann.substack.com/p/household-size-and-the-housing-stock)
+- [Houston, we have a solution - Works in Progress](https://worksinprogress.co/issue/houston-we-have-a-solution/)
 - [Our Self-Imposed Scarcity of Nice Places](https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places)
 - [Saturday Morning Breakfast Cereal - NIMBY](https://www.smbc-comics.com/comic/nimby)
 - [Sprawl Repair | DPZ Initiatives](http://web.archive.org/web/20140831193143/https://www.dpz.com/Initiatives/SprawlRepair)
@@ -146,12 +157,16 @@ date_modified = 2024-03-19
 - [The Pandemic is Making the Suburbs Even More Appealing - The Atlantic](https://www.theatlantic.com/technology/archive/2020/06/pandemic-suburbs-are-best/613300/)
 - [The Resilient Decision Intelligence Platform | UrbanFootprint](https://urbanfootprint.com/)
 - [The cities stripping out concrete for earth and plants](https://www.bbc.com/future/article/20240222-depaving-the-cities-replacing-concrete-with-earth-and-plants)
+- [The housing theory of everything - Works in Progress](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
+- [The housing theory of everything - Works in Progress](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
+- [Understanding Brainerd, Part 1: The Grid - YouTube](https://www.youtube.com/watch?v=vaeaR1fZ4G8&list=LL)
 - [What if Everyone Lived in Just One City? - YouTube](https://www.youtube.com/watch?v=r_iNRGac_uM&list=LL)
 - [Why building walkable cities is the key to economic success - Curbed](https://archive.curbed.com/2019/6/24/18715939/real-estate-development-walkable-urbanism)
 - [You Can't Achieve Jane Jacobs Ends with Robert Moses Means—But What If You Don't Have a Choice?](https://www.strongtowns.org/journal/2021/3/2/you-cant-achieve-jane-jacobs-ends-with-robert-moses-meansbut-what-if-you-dont-have-a-choice)
 
 # Exercise
 
+- [At Home Core Workout | Clutch Life: Ashley Conrad's 24/7 Fitness Trainer - YouTube](https://m.youtube.com/watch?si=iKmhgXIaT0HTbPdy&v=dJlFmxiL11s&feature=youtu.be)
 - [Stretch 15](https://stretch15.com/)
 
 # Fiction
@@ -167,6 +182,7 @@ date_modified = 2024-03-19
 
 # Geopolitics
 
+- [Every map of China is wrong. And this is intentional… | by Anastasia Bizyayeva | Medium](https://medium.com/@anastasia.bizyayeva/every-map-of-china-is-wrong-bc2bce145db2)
 - [How Taiwan became Arrakis - by aaartem](https://deepintothemundane.substack.com/p/how-taiwan-became-arrakis)
 - [India, Jio, and the Four Internets – Stratechery by Ben Thompson](https://stratechery.com/2020/india-jio-and-the-four-internets/)
 
@@ -178,16 +194,20 @@ date_modified = 2024-03-19
 - [Declining Sperm Count: Much More Than You Wanted To Know](https://www.astralcodexten.com/p/declining-sperm-count-much-more-than)
 - [I Tracked Every Single Thing I Ate for a Full Year. Here are 10 Quick A-Ha’s. | by Mike Bechtel | Medium](https://mikebechtel.medium.com/i-tracked-every-single-thing-i-ate-for-a-full-year-here-are-10-quick-a-has-2c259dd2f57b)
 - [Longevity FAQ — Laura Deming](https://www.ldeming.com/longevityfaq)
+- [Mobility Independence Foundation](https://themif.org/)
 - [The Ultra-Introverts Who Live Nocturnally - The Atlantic](https://www.theatlantic.com/family/archive/2022/02/ultra-introverts-nocturnal-lives/622856/)
 
 ## Health > Allergies
 
 - [FDA approves first medication to reduce allergic reactions to multiple foods | Hacker News](https://news.ycombinator.com/item?id=39507230)
+- [Food Allergies 101 - YouTube](https://www.youtube.com/watch?v=6fZ70auitoM&list=LL)
 
 # Language
 
+- [How to be an amateur polyglot — LessWrong](about:reader?url=https%3A%2F%2Fwww.lesswrong.com%2Fposts%2FBPpeBH8brSCRvZajs%2Fhow-to-be-an-amateur-polyglot)
 - [Language Transfer](https://www.languagetransfer.org/)
 - [Learn Languages Online - Language Learner Success | Pimsleur®](https://www.pimsleur.com/)
+- [LibreTranslate - Free and Open Source Machine Translation API 🌐](https://libretranslate.com/)
 - [Notes on Learning Languages | Luke's Webpage](https://lukesmith.xyz/articles/notes-on-learning-languages/)
 
 ## Language > German
@@ -197,6 +217,11 @@ date_modified = 2024-03-19
 - [Here are some tips on learning German effectively : r/German](https://www.reddit.com/r/German/comments/6k2jg5/here_are_some_tips_on_learning_german_effectively/)
 - [Most Frequent German Words](https://drive.google.com/file/d/12kUWu0cQasdJHaf2D2QbB2DohSNpm_ZY/view?pli=1)
 - [Unlock German with Stories](https://learnoutlive.com/)
+
+# Math
+
+- [SymPy](https://www.sympy.org/en/index.html)
+- [The Beauty of Bézier Curves - YouTube](https://www.youtube.com/watch?v=aVwxzDHniEw&list=LL)
 
 # Music
 
@@ -233,6 +258,7 @@ date_modified = 2024-03-19
 - [Jan Wagemakers](https://www.janwagemakers.be/jekyll/)
 - [Jan-Hendrik Ewers](https://janhendrikewers.uk/)
 - [Jay Little](https://jaylittle.com/)
+- [Jeff Geerling](https://www.jeffgeerling.com/)
 - [Jeremy Thomas](https://jgthms.com/)
 - [Jim Nielsen’s Blog](https://blog.jim-nielsen.com/)
 - [John Nguyen](https://md.jtmn.dev/blog/Hi%2C+I'm+John.)
@@ -259,6 +285,7 @@ date_modified = 2024-03-19
 - [Shubham Jain](https://shubhamjain.co/)
 - [Side Of Burritos](https://sideofburritos.com/)
 - [Terence Eden](https://shkspr.mobi/blog/)
+- [Thorsten Ball](https://thorstenball.com/)
 - [Tulir Asokan](https://mau.fi/)
 - [Tyler Cipriani](https://tylercipriani.com/)
 - [Willian Molinari (PotHix)](https://pothix.com/)
@@ -275,6 +302,7 @@ date_modified = 2024-03-19
 - [Financial tips learned to date (turning 30) : r/fatFIRE](https://www.reddit.com/r/fatFIRE/comments/f3ozj6/financial_tips_learned_to_date_turning_30/)
 - [Firefly III - A free and open source personal finance manager](https://www.firefly-iii.org/)
 - [Simple Personal Finance Tracking with GnuCash | Cameron Sun](https://www.csun.io/2020/05/17/gnucash-finance.html)
+- [Why I Don’t Invest in Real Estate - by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/why-i-dont-invest-in-real-estate)
 
 # Philosophy
 
@@ -347,10 +375,25 @@ date_modified = 2024-03-19
 - [Reviews and Ratings - RTINGS.com](https://www.rtings.com/)
 - [Wirecutter: New Product Reviews, Deals, and Buying Advice](https://www.nytimes.com/wirecutter/)
 
-# Software
+
+# Tech
 
 
-## Software > AI
+## Tech > AI
+
+- [Berkeley Function Calling Leaderboard (aka Berkeley Tool Calling Leaderboard)](https://gorilla.cs.berkeley.edu/leaderboard.html)
+- [Building DoorDash’s Product Knowledge Graph with Large Language Models - DoorDash Engineering Blog](https://doordash.engineering/2024/04/23/building-doordashs-product-knowledge-graph-with-large-language-models/?utm_source=blog.quastor.org&utm_medium=newsletter&utm_campaign=how-doordash-labels-millions-of-items-with-large-language-models)
+- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- [Cheat-maker brags of computer-vision auto-aim that works on “any game” | Ars Technica](https://arstechnica.com/gaming/2021/07/cheat-maker-brags-of-computer-vision-auto-aim-that-works-on-any-game/)
+- [Factorial Funds | Under The Hood: How OpenAI's Sora Model Works](https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works)
+- [How LLMs Work, Explained Without Math - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
+- [How Quickly Do Large Language Models Learn Unexpected Skills? | Quanta Magazine](https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/)
+- [How Scientists Are Using AI to Talk to Animals | Scientific American](https://www.scientificamerican.com/article/how-scientists-are-using-ai-to-talk-to-animals/)
+- [Models - Top Weekly | OpenRouter](https://openrouter.ai/models?o=top-weekly)
+- [Replika: Your Money or Your Wife / GioCities](https://blog.giovanh.com/blog/2023/03/17/replika-your-money-or-your-wife/#fnref:if)
+- [Using Local AI On The Command Line To Rename Images (And More) | Hackaday](https://hackaday.com/2023/12/29/using-local-ai-on-the-command-line-to-rename-images-and-more/)
+
+### Tech > AI > Software
 
 - [GitHub - davabase/whisper_real_time: Real time transcription with OpenAI Whisper.](https://github.com/davabase/whisper_real_time)
 - [GitHub - ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
@@ -365,144 +408,9 @@ date_modified = 2024-03-19
 - [summarize.tech: AI-powered video summaries](https://www.summarize.tech/)
 - [upscayl/upscayl: 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.](https://github.com/upscayl/upscayl)
 
-### Software > AI > Imagery
+#### Tech > AI > Software > Imagery
 
 - [layerdiffusion/sd-forge-layerdiffusion: [WIP] Layer Diffusion for WebUI (via Forge)](https://github.com/layerdiffusion/sd-forge-layerdiffusion)
-
-## Software > CLI
-
-- [A curated list of command-line utilities written in Rust](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
-- [GitHub - atuinsh/atuin: ✨ Magical shell history](https://github.com/atuinsh/atuin)
-- [GitHub - swsnr/mdcat: cat for markdown](https://github.com/swsnr/mdcat)
-- [Termius - SSH platform for Mobile and Desktop](https://www.termius.com/)
-- [andrew-quinn.me/fzf/](https://andrew-quinn.me/fzf/)
-- [sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat)
-- [sharkdp/vivid: A themeable LS_COLORS generator with a rich filetype datebase](https://github.com/sharkdp/vivid)
-
-## Software > Creativity
-
-- [Pixelorama v0.11.3-stable](https://www.oramainteractive.com/Pixelorama/)
-
-## Software > Data Science
-
-- [Metabase | Business Intelligence, Dashboards, and Data Visualization](https://www.metabase.com/)
-- [Polars — Dataframes for the new era](https://pola.rs/)
-- [Welcome | Superset](https://superset.apache.org/)
-- [dataset 1.6.2 documentation](https://dataset.readthedocs.io/en/latest/index.html#)
-- [superset/superset-embedded-sdk at master · apache/superset · GitHub](https://github.com/apache/superset/tree/master/superset-embedded-sdk)
-- [wddbfs – Mount a sqlite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
-
-## Software > Databases
-
-- [GitHub - mla/pg_sample: PostgreSQL utility for creating a small, sample database from a larger one](https://github.com/mla/pg_sample)
-- [Neon — Serverless, Fault-Tolerant, Branchable Postgres](https://neon.tech/)
-- [Pigsty](https://pigsty.io/)
-- [mathaou/termdbms: A TUI for viewing and editing database files.](https://github.com/mathaou/termdbms)
-- [oguimbal/pg-mem: An in memory postgres DB instance for your unit tests](https://github.com/oguimbal/pg-mem)
-- [pg_analytics: Transforming Postgres into a Fast OLAP Database - ParadeDB](https://blog.paradedb.com/pages/introducing_analytics)
-- [pg_analytics: Transforming Postgres into a Fast OLAP Database - ParadeDB](https://blog.paradedb.com/pages/introducing_analytics)
-- [valeriansaliou/sonic: 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.](https://github.com/valeriansaliou/sonic)
-
-## Software > Frontend
-
-- [</> htmx - high power tools for html](https://htmx.org/)
-- [Bulma: Free, open source, and modern CSS framework based on Flexbox](https://bulma.io/)
-- [CSS Bed](https://www.cssbed.com/)
-- [Dioxus | An elegant GUI library for Rust](https://dioxuslabs.com/)
-- [Free Open Source Tailwind CSS Components | HyperUI](https://www.hyperui.dev/)
-- [Human Replay](https://einenlum.github.io/human-replay/)
-- [Sailboat UI - Modern UI component library for Tailwind CSS](https://sailboatui.com/)
-
-## Software > Games
-
-- [Awesome Open Source Games | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/michelpereira/awesome-open-source-games)
-- [Card-Forge/forge: An unofficial rules engine for the world's greatest card game.](https://github.com/Card-Forge/forge)
-- [GitHub - CorsixTH/CorsixTH: Open source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
-- [Home | PaperMC](https://papermc.io/)
-- [Shattered Pixel Dungeon - Shattered Pixel](https://shatteredpixel.com/shatteredpd/)
-- [Software Library: Flash : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/softwarelibrary_flash)
-- [Spring Savanna Showcase - YouTube](https://www.youtube.com/watch?v=no0tZkTnn24&list=LL)
-
-### Software > Games > Minecraft
-
-- [Bliss Shaders - Minecraft Shader](https://modrinth.com/shader/bliss-shader)
-- [Concurrent Chunk Management Engine (Fabric) - Minecraft Mod](https://modrinth.com/mod/c2me-fabric)
-- [Distant Horizons - Versions](https://modrinth.com/mod/distanthorizons/versions) - Lets you use Minecraft shaders with a super far render distance.
-- [Exposure - Minecraft Mod](https://modrinth.com/mod/exposure)
-- [Fabric | The home of the Fabric mod development toolchain.](https://fabricmc.net/)
-- [Patrix 32x - Minecraft Resource Packs - CurseForge](https://www.curseforge.com/minecraft/texture-packs/patrix-32x)
-- [Sodium - Versions](https://modrinth.com/mod/sodium/versions)
-- [Tectonic - Minecraft Data Pack](https://modrinth.com/datapack/tectonic) - Best Minecraft terrain generation mod to use with Distant Horizons mod.
-- [Terra - Minecraft Plugin](https://modrinth.com/plugin/terra)
-- [Terralith - Minecraft Mod](https://modrinth.com/mod/terralith) - Adds many new biomes. Works well with Tectonic.
-- [This is Iris](https://irisshaders.dev/)
-
-## Software > Geospatial
-
-- [Every Door](https://every-door.app/)
-- [Felt - The best way to work with maps on the internet](https://felt.com/product)
-- [Geospatial NIX - create, use and deploy today ...](https://geospatial-nix.today/)
-- [GitHub - felt/tippecanoe: Build vector tilesets from large collections of GeoJSON features.](https://github.com/felt/tippecanoe)
-- [GitHub - organicmaps/organicmaps: 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!](https://github.com/organicmaps/organicmaps)
-- [GitHub - protomaps/PMTiles: Cloud-optimized + compressed single-file tile archives for vector and raster maps](https://github.com/protomaps/PMTiles)
-- [Overland GPS Tracking App for iPhone](https://overland.p3k.app/)
-- [Protomaps | A free and open source map of the world](https://protomaps.com/)
-- [ShadeMap - Simulate sun shadows for any time and place on Earth](https://shademap.app/@37.7506,-122.4121,15z,1711075258684t,0b,0p,0m)
-- [overpass turbo](https://overpass-turbo.eu/) - Web based OSM data querying tool.
-- [placemark/placemark: A flexible web-based editor, converter, visualization tool, for geospatial data](https://github.com/placemark/placemark)
-
-## Software > Health
-
-- [GitHub - yuhonas/free-exercise-db: Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend](https://github.com/yuhonas/free-exercise-db)
-- [fastenhealth/fasten-onprem: Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics](https://github.com/fastenhealth/fasten-onprem)
-- [jovandeginste/workout-tracker: A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities](https://github.com/jovandeginste/workout-tracker)
-
-## Software > Languages
-
-- [GitHub - unforswearing/applescript: Applescript applets, snippets, resources, and links](https://github.com/unforswearing/applescript)
-- [The JavaScript Oxidation Compiler](https://oxc-project.github.io/)
-
-## Software > Networking
-
-- [Connect, Protect and Build Everywhere | Cloudflare](https://www.cloudflare.com/)
-- [MeshCentral](https://meshcentral.com/)
-
-## Software > Productivity
-
-- [Automating 1/2 of my typing with generated shortcuts - Erik Schluntz](https://erikschluntz.com/software/2023/08/26/compressing-my-typing.html)
-- [Cal.com | Open Scheduling Infrastructure](https://cal.com/)
-- [Dispatch - Inbox for Slack](https://www.dispatch.do/)
-- [Lapce](https://lapce.dev/)
-- [markdoc/markdoc: A powerful, flexible, Markdown-based authoring framework.](https://github.com/markdoc/markdoc)
-
-## Software > Reading
-
-- [AboutRSS/ALL-about-RSS: A list of RSS related stuff: tools, services, communities and tutorials, etc.](https://github.com/AboutRSS/ALL-about-RSS)
-- [Explore Offline Wikipedia and Educational Content with Kiwix- Kiwix](https://kiwix.org/en/)
-- [FreshRSS, a free, self-hostable feeds aggregator](https://www.freshrss.org/)
-- [GitHub - RSS-Bridge/rss-bridge: The RSS feed for websites missing it](https://github.com/RSS-Bridge/rss-bridge)
-- [NewsBlur](https://www.newsblur.com/)
-- [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)
-- [mozilla/readability: A standalone version of the readability lib](https://github.com/mozilla/readability)
-
-## Software > Science
-
-- [New app! A compass that points to the centre of the galaxy (Interconnected)](https://interconnected.org/home/2024/02/15/galactic-compass)
-- [Stellarium Astronomy Software](https://stellarium.org/)
-
-# Tech
-
-
-## Tech > AI
-
-- [Berkeley Function Calling Leaderboard (aka Berkeley Tool Calling Leaderboard)](https://gorilla.cs.berkeley.edu/leaderboard.html)
-- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-- [Cheat-maker brags of computer-vision auto-aim that works on “any game” | Ars Technica](https://arstechnica.com/gaming/2021/07/cheat-maker-brags-of-computer-vision-auto-aim-that-works-on-any-game/)
-- [Factorial Funds | Under The Hood: How OpenAI's Sora Model Works](https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works)
-- [How Scientists Are Using AI to Talk to Animals | Scientific American](https://www.scientificamerican.com/article/how-scientists-are-using-ai-to-talk-to-animals/)
-- [Models - Top Weekly | OpenRouter](https://openrouter.ai/models?o=top-weekly)
-- [Replika: Your Money or Your Wife / GioCities](https://blog.giovanh.com/blog/2023/03/17/replika-your-money-or-your-wife/#fnref:if)
-- [Using Local AI On The Command Line To Rename Images (And More) | Hackaday](https://hackaday.com/2023/12/29/using-local-ai-on-the-command-line-to-rename-images-and-more/)
 
 ## Tech > AR+VR
 
@@ -510,14 +418,44 @@ date_modified = 2024-03-19
 - [Why VR/AR Gets Farther Away as It Comes Into Focus — MatthewBall.co](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
 - [Working From Orbit. VR Productivity in (or Above) a WFA… | by Paul Tomlinson | Immersed | Medium](https://medium.com/immersedteam/working-from-orbit-39bf95a6d385)
 
+## Tech > CLI
+
+
+### Tech > CLI > Software
+
+- [A curated list of command-line utilities written in Rust](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
+- [GitHub - atuinsh/atuin: ✨ Magical shell history](https://github.com/atuinsh/atuin)
+- [GitHub - erikw/vim-keybindings-everywhere-the-ultimate-list: The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
+- [GitHub - swsnr/mdcat: cat for markdown](https://github.com/swsnr/mdcat)
+- [Termius - SSH platform for Mobile and Desktop](https://www.termius.com/)
+- [Vifm](https://vifm.info/)
+- [andrew-quinn.me/fzf/](https://andrew-quinn.me/fzf/)
+- [aristocratos/btop: A monitor of resources](https://github.com/aristocratos/btop)
+- [numtide/devshell: Per project developer environments](https://github.com/numtide/devshell)
+- [sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat)
+- [sharkdp/vivid: A themeable LS_COLORS generator with a rich filetype datebase](https://github.com/sharkdp/vivid)
+
 ## Tech > Cloud
 
+- [Cache is King: A guide for Docker layer caching in GitHub Actions - Blacksmith](https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions)
 - [Deploying an Express Application to AWS Lambda, the easy way | by Alexis Hevia | Medium](https://medium.com/@alexishevia/deploying-an-express-application-to-aws-lambda-the-easy-way-fa5fbef190ba)
 - [Deterministic Simulation Testing for Our Entire SaaS - WarpStream - Stream More, Manage Less](https://www.warpstream.com/blog/deterministic-simulation-testing-for-our-entire-saas)
 - [How I Left The Cloud : r/selfhosted](https://www.reddit.com/r/selfhosted/comments/196nke8/how_i_left_the_cloud/)
 - [How to recover from microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
 - [Microservices - YouTube](https://www.youtube.com/watch?v=y8OnoxKotPQ&list=LL)
+- [Modal: High-performance cloud for developers](https://modal.com/)
+- [PocketBase - Open Source backend in 1 file](https://pocketbase.io/)
 - [What a typical 100% Serverless Architecture looks like in AWS! | by Xavier Lefèvre | Serverless Transformation | Medium](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
+
+## Tech > Creativity
+
+
+### Tech > Creativity > Software
+
+- [Draw Freely | Inkscape](https://inkscape.org/)
+- [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/)
+- [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/)
+- [Pixelorama v0.11.3-stable](https://www.oramainteractive.com/Pixelorama/)
 
 ## Tech > Crypto
 
@@ -526,26 +464,56 @@ date_modified = 2024-03-19
 ## Tech > Data Science
 
 - [About this Book - 📖 Data Engineering Design Patterns (DEDP)](https://www.dedp.online/)
+- [Backpressure explained — the resisted flow of data through software | by Jay Phelps | Medium](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
 - [Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/)
+- [GitHub - Barabasi-Lab/GroceryDB: Data and Codes for GroceryDB](https://github.com/Barabasi-Lab/GroceryDB)
 - [GitHub - rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/) - Kalman Filter explained using Jupyter Notebook examples.
 - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 - [Polars — A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 - [Understand CSV Files from your Terminal with XSV | by Khuyen Tran | Towards Data Science](https://towardsdatascience.com/understand-your-csv-files-from-your-terminal-with-xsv-65255ae67293)
 - [XKCD — Matplotlib 3.8.3 documentation](https://matplotlib.org/stable/gallery/showcase/xkcd.html)
 
+### Tech > Data Science > Software
+
+- [Metabase | Business Intelligence, Dashboards, and Data Visualization](https://www.metabase.com/)
+- [Polars — Dataframes for the new era](https://pola.rs/)
+- [Welcome | Superset](https://superset.apache.org/)
+- [dataset 1.6.2 documentation](https://dataset.readthedocs.io/en/latest/index.html#)
+- [superset/superset-embedded-sdk at master · apache/superset · GitHub](https://github.com/apache/superset/tree/master/superset-embedded-sdk)
+- [wddbfs – Mount a sqlite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
+
 ## Tech > Databases
 
+- [Common DB schema change mistakes | Postgres.AI](https://postgres.ai/blog/20220525-common-db-schema-change-mistakes)
+- [Crunchy Bridge for Analytics: Your Data Lake in... | Crunchy Data Blog](https://www.crunchydata.com/blog/crunchy-bridge-for-analytics-your-data-lake-in-postgresql)
 - [Data denormalization is broken | HackerNoon](https://hackernoon.com/data-denormalization-is-broken-7b697352f405)
+- [Exploring the Enigma of Database Vacuuming | Dinesh Gowda](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
 - [Flexible Schemas Are The Mindkiller — Ludicity](https://ludic.mataroa.blog/blog/flexible-schemas-are-the-mindkiller/)
 - [Goodbye MongoDB - Stuart Spence Blog](https://blog.stuartspence.ca/2023-05-goodbye-mongo.html)
 - [Multiple Aggregates in One Query - Database Tip](https://sqlfordevs.com/multiple-aggregates-in-one-query)
 - [Postgres is eating the database world | by Vonng | Mar, 2024 | Medium](https://pigsty.io/blog/pg/pg-eat-db-world/)
 - [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com/)
 - [Scaling SQLite to 4M QPS on a Single Server (EC2 vs Bare Metal)](https://use.expensify.com/blog/scaling-sqlite-to-4m-qps-on-a-single-server)
+- [Syncing Postgres Partitions to Your Data Lake... | Crunchy Data Blog](https://www.crunchydata.com/blog/syncing-postgres-partitions-to-your-data-lake-in-bridge-for-analytics)
+- [The API database architecture - Stop writing HTTP-GET endpoints](https://www.fabianzeindl.com/posts/the-api-database-architecture)
 - [The Great Migration from MongoDB to PostgreSQL](https://infisical.com/blog/postgresql-migration-technical)
 - [The Ultimate Guide to PostgreSQL Data Change Tracking | Medium](https://exaspark.medium.com/the-ultimate-guide-to-postgresql-data-change-tracking-c3fa88779572)
 - [Things that don’t work well with MySQL’s FOREIGN KEY implementation – code.openark.org](https://code.openark.org/blog/mysql/things-that-dont-work-well-with-mysqls-foreign-key-implementation)
 - [Use Databases Without Putting Domain Logic in Them | Alex Kondov - Software Engineer](https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/)
+
+### Tech > Databases > Software
+
+- [GitHub - mla/pg_sample: PostgreSQL utility for creating a small, sample database from a larger one](https://github.com/mla/pg_sample)
+- [GitHub - supabase/index_advisor: PostgreSQL Index Advisor](https://github.com/supabase/index_advisor)
+- [Neon — Serverless, Fault-Tolerant, Branchable Postgres](https://neon.tech/)
+- [Pigsty](https://pigsty.io/)
+- [mathaou/termdbms: A TUI for viewing and editing database files.](https://github.com/mathaou/termdbms)
+- [oguimbal/pg-mem: An in memory postgres DB instance for your unit tests](https://github.com/oguimbal/pg-mem)
+- [paradedb/pg_lakehouse at dev · paradedb/paradedb](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse)
+- [pg_analytics: Transforming Postgres into a Fast OLAP Database - ParadeDB](https://blog.paradedb.com/pages/introducing_analytics)
+- [pg_analytics: Transforming Postgres into a Fast OLAP Database - ParadeDB](https://blog.paradedb.com/pages/introducing_analytics)
+- [turbot/steampipe: Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.](https://github.com/turbot/steampipe)
+- [valeriansaliou/sonic: 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.](https://github.com/valeriansaliou/sonic)
 
 ## Tech > FOSS
 
@@ -571,30 +539,105 @@ date_modified = 2024-03-19
 - [My workflow as an embedded Linux developer](https://connolly.tech/posts/2022_07_20-aosp-vscode/)
 - [The unreasonable effectiveness of i3, or: ten years of a boring desktop environment](https://blog.waleson.com/2024/03/the-unreasonable-effectiveness-of-i3-or.html)
 
+## Tech > Finance
+
+
+### Tech > Finance > Software
+
+- [GitHub - cioraneanu/firefly-pico: A delightful Firefly III companion web app for effortless transaction tracking](https://github.com/cioraneanu/firefly-pico)
+
 ## Tech > Frontend
 
 - [Designing accessible color systems](https://stripe.com/blog/accessible-color-systems)
 - [Free Icons: Absolutely all the open source icons packed in a single site.](https://www.iconshock.com/freeicons/)
+- [Graph visualization: fixing data hairballs - Cambridge Intelligence](https://cambridge-intelligence.com/how-to-fix-hairballs/)
 - [Home | Laws of UX](https://lawsofux.com/)
 - [Refactoring UI](https://www.refactoringui.com/)
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 - [illlustrations - open source illustrations kit](https://illlustrations.co/)
 - [v0 by Vercel](https://v0.dev/)
 
+### Tech > Frontend > Software
+
+- [</> htmx - high power tools for html](https://htmx.org/)
+- [Bulma: Free, open source, and modern CSS framework based on Flexbox](https://bulma.io/)
+- [CSS Bed](https://www.cssbed.com/)
+- [Dioxus | An elegant GUI library for Rust](https://dioxuslabs.com/)
+- [Free Open Source Tailwind CSS Components | HyperUI](https://www.hyperui.dev/)
+- [Human Replay](https://einenlum.github.io/human-replay/)
+- [Sailboat UI - Modern UI component library for Tailwind CSS](https://sailboatui.com/)
+- [shadcn/ui](https://ui.shadcn.com/)
+
+## Tech > Games
+
+- [I Optimised My Game Engine Up To 12000 FPS - YouTube](https://www.youtube.com/watch?v=40JzyaOYJeY)
+- [Twenty Years, Twenty Lessons—Part 1 | MAGIC: THE GATHERING](https://magic.wizards.com/en/news/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30)
+
+### Tech > Games > Software
+
+- [0 A.D. | A free, open-source game of ancient warfare](https://play0ad.com/)
+- [Awesome Open Source Games | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/michelpereira/awesome-open-source-games)
+- [Card-Forge/forge: An unofficial rules engine for the world's greatest card game.](https://github.com/Card-Forge/forge)
+- [GitHub - CorsixTH/CorsixTH: Open source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
+- [Home | PaperMC](https://papermc.io/)
+- [Minetest | Open source voxel game engine](https://www.minetest.net/)
+- [Shattered Pixel Dungeon - Shattered Pixel](https://shatteredpixel.com/shatteredpd/)
+- [Software Library: Flash : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/softwarelibrary_flash)
+- [Spring Savanna Showcase - YouTube](https://www.youtube.com/watch?v=no0tZkTnn24&list=LL)
+
+#### Tech > Games > Software > Minecraft
+
+- [Bliss Shaders - Minecraft Shader](https://modrinth.com/shader/bliss-shader)
+- [Concurrent Chunk Management Engine (Fabric) - Minecraft Mod](https://modrinth.com/mod/c2me-fabric)
+- [Distant Horizons - Versions](https://modrinth.com/mod/distanthorizons/versions) - Lets you use Minecraft shaders with a super far render distance.
+- [Exposure - Minecraft Mod](https://modrinth.com/mod/exposure)
+- [Fabric | The home of the Fabric mod development toolchain.](https://fabricmc.net/)
+- [Patrix 32x - Minecraft Resource Packs - CurseForge](https://www.curseforge.com/minecraft/texture-packs/patrix-32x)
+- [Sodium - Versions](https://modrinth.com/mod/sodium/versions)
+- [Tectonic - Minecraft Data Pack](https://modrinth.com/datapack/tectonic) - Best Minecraft terrain generation mod to use with Distant Horizons mod.
+- [Terra - Minecraft Plugin](https://modrinth.com/plugin/terra)
+- [Terralith - Minecraft Mod](https://modrinth.com/mod/terralith) - Adds many new biomes. Works well with Tectonic.
+- [This is Iris](https://irisshaders.dev/)
+
 ## Tech > Geospatial
 
 - [Calculating Position from Raw GPS Data | Telesens](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
+- [Earth online : Current satellite images of Earth - Nimbo](https://nimbo.earth/products/earth-online/)
+- [Every Door](https://every-door.app/)
 - [Generating a 3D map with OpenStreetMap and A-Frame | Programming | mary.codes](https://mary.codes/blog/programming/generating_a_vr_map_with_osm_and_aframe/)
+- [Home - Open Geospatial Consortium](https://www.ogc.org/)
 - [Host a planet-scale geocoder for $10/month — ellen's disorganized thoughts](https://blog.ellenhp.me/host-a-planet-scale-geocoder-for-10-month)
 - [How The Post is replacing Mapbox with open source solutions - Kevin Schaul](https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/)
 - [How to use PostgreSQL for (military) geoanalytics tasks · Taras Kloba's](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
+- [MapComplete](https://mapcomplete.org/)
+- [MapLibre | MapLibre](https://maplibre.org/)
+- [Maputnik](https://maputnik.github.io/)
+- [Overture Maps Foundation – Linux Foundation Project](https://overturemaps.org/)
 - [Release Notes: How to make self-hosted maps that work everywhere and cost next to nothing • MuckRock](https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/)
 - [STARLINKMAP.ORG - Real-Time Starlink Satellite Tracker](https://www.starlinkmap.org/)
 - [Spacetime maps](https://spacetime-maps.vercel.app/?city=newyork)
+- [The current state of map design in OpenStreetMap | Imagico.de](https://imagico.de/blog/en/the-current-state-of-map-design-in-openstreetmap/)
 - [To Know Where You Are; High Precision Mapping From Scratch – Ben Dauphinee](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
 - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly | Programming | mary.codes](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 - [What Happens to Google Maps When Tectonic Plates Move? - Nautilus](https://nautil.us/what-happens-to-google-maps-when-tectonic-plates-move-237678/)
 - [ipapi.is - Geolocation](https://ipapi.is/geolocation.html)
+
+### Tech > Geospatial > Software
+
+- [Every Door](https://every-door.app/)
+- [Felt - The best way to work with maps on the internet](https://felt.com/product)
+- [Geospatial NIX - create, use and deploy today ...](https://geospatial-nix.today/)
+- [GitHub - felt/tippecanoe: Build vector tilesets from large collections of GeoJSON features.](https://github.com/felt/tippecanoe)
+- [GitHub - organicmaps/organicmaps: 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!](https://github.com/organicmaps/organicmaps)
+- [GitHub - protomaps/PMTiles: Cloud-optimized + compressed single-file tile archives for vector and raster maps](https://github.com/protomaps/PMTiles)
+- [Overland GPS Tracking App for iPhone](https://overland.p3k.app/)
+- [Project OSRM](https://project-osrm.org/)
+- [Protomaps | A free and open source map of the world](https://protomaps.com/)
+- [RTK2GO – Hassle Free RTK NTRIP Streaming](http://rtk2go.com/)
+- [ShadeMap - Simulate sun shadows for any time and place on Earth](https://shademap.app/@37.7506,-122.4121,15z,1711075258684t,0b,0p,0m)
+- [onocoy](https://www.onocoy.com/)
+- [overpass turbo](https://overpass-turbo.eu/) - Web based OSM data querying tool.
+- [placemark/placemark: A flexible web-based editor, converter, visualization tool, for geospatial data](https://github.com/placemark/placemark)
 
 ## Tech > Hardware
 
@@ -603,15 +646,27 @@ date_modified = 2024-03-19
 - [Building a Lego-powered Submarine 2.0 - magnetic couplings - YouTube](https://www.youtube.com/watch?v=MdfUSNzc0Xk&list=LL)
 - [Building an open source IRL livestreaming backpack](https://codecat.nl/2022/08/irl-backpack/)
 - [ChromaTags: An Accurate, Robust, and Fast Fiducial System](https://austingwalters.com/chromatags/)
+- [ClemensElflein/OpenMower: Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!](https://github.com/ClemensElflein/OpenMower)
 - [DIY Paper Tape Label printing CNC machine | Arduino + GRBL + BT + Android - YouTube](https://www.youtube.com/watch?v=Y_rrbo6_42U&list=LL)
+- [ESPHome — ESPHome](https://esphome.io/index.html)
 - [EV Charging Connectors Come In Many Shapes And Sizes | Hackaday](https://hackaday.com/2022/04/28/ev-charging-connectors-come-in-many-shapes-and-sizes/)
 - [FarmBot | Open-Source CNC Farming](https://farm.bot/)
 - [Gridfinity :: Unofficial wiki | Gridfinity](https://gridfinity.xyz/)
+- [Here's why RISC-V is important](https://www.xda-developers.com/heres-why-risc-v-is-important/)
 - [Home Assistant Security Guardian BOT - Part 1 - YouTube](https://www.youtube.com/watch?v=2BBThH_CpSE&list=LL)
+- [How To Make A CPU - A Simple Picture Based Explanation](https://blog.robertelder.org/how-to-make-a-cpu/)
 - [How and Why I Stopped Buying New Laptops | LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
+- [How to Build a $20 Billion Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
+- [IoTaWatt™ Open WiFi Electric Power Monitor](https://iotawatt.com/)
+- [Modos-Labs/Glider: Open-source E-ink monitor. Mirror of https://gitlab.com/zephray/glider](https://github.com/Modos-Labs/Glider)
+- [One RaspBerry to replace my k8s cluster](https://yomain.dev/blog/raspberry-oh-my-raspberry/)
+- [OpenTherm thermostat with ESPHome and Home Assistant](https://olegtarasov.me/opentherm-thermostat-esphome/)
+- [Quilt – The smartest way to heat and cool your home](https://www.quilt.com/)
 - [SimulaVR](https://simulavr.com/)
 - [SwitchBot Official Website - Your Simple Switch to a Smart Home – SwitchBot International](https://www.switch-bot.com/)
 - [The Hardware Lottery](https://hardwarelottery.github.io/)
+- [The Quest for a Dumber Phone](https://every.to/cybernaut/the-quest-for-a-dumber-phone)
+- [Ultimate FPS Controller Design & Build - YouTube](https://www.youtube.com/watch?v=Ug06dhahqg0)
 - [Understanding Wi-Fi 4/5/6/6E/7 (802.11 n/ac/ax/be)](https://www.wiisfi.com/)
 - [What Is an Ortholinear Keyboard, and Should You Use One?](https://www.howtogeek.com/70291/what-is-an-ortholinear-keyboard-and-should-you-use-one/)
 
@@ -623,10 +678,46 @@ date_modified = 2024-03-19
 
 - [50 Shades of Rust - HedgeDoc](https://monadical.com/posts/shades-of-rust-gui-library-list.html#)
 - [Python 3 vs Node js - Which programs are fastest?](https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html)
+- [articles/internals_of_the_async_await_pattern_from_first_principles.md at master · Dobiasd/articles](https://github.com/Dobiasd/articles/blob/master/internals_of_the_async_await_pattern_from_first_principles.md)
+
+### Tech > Languages > Software
+
+- [GitHub - unforswearing/applescript: Applescript applets, snippets, resources, and links](https://github.com/unforswearing/applescript)
+- [The JavaScript Oxidation Compiler](https://oxc-project.github.io/)
 
 ## Tech > Networking
 
+- [Creating an Autonomous System for Fun and Profit](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html?m=1)
 - [Old Vintage Computing Research: So long, home T1 line; hello, hacking the T1 router](http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html)
+- [Setting up a home VPN server with Wireguard | Mikkel Høgh](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
+
+### Tech > Networking > Software
+
+- [Connect, Protect and Build Everywhere | Cloudflare](https://www.cloudflare.com/)
+- [MeshCentral](https://meshcentral.com/)
+- [andydunstall/piko: An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)](https://github.com/andydunstall/piko)
+
+## Tech > OS
+
+- [NixOS Wiki - NixOS Wiki](https://wiki.nixos.org/wiki/NixOS_Wiki)
+- [Zero to Nix](https://zero-to-nix.com/)
+
+### Tech > OS > Software
+
+- [Introduction | Regolith Desktop](https://regolith-desktop.com/)
+- [Proxmox - Powerful open-source server solutions](https://www.proxmox.com/en/)
+- [Vagrant by HashiCorp](https://www.vagrantup.com/)
+
+## Tech > Photos
+
+- [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh/)
+- [Screely - Generate Website Mockups](https://screely.com/)
+
+### Tech > Photos > Software
+
+- [AMIDE: a Medical Image Data Analysis Tool](https://amide.sourceforge.net/index.html)
+- [GitHub - dogsheep/dogsheep-photos: Upload your photos to S3 and import metadata about them into a SQLite database](https://github.com/dogsheep/dogsheep-photos)
+- [Home | Immich](https://immich.app/)
 
 ## Tech > Privacy
 
@@ -634,6 +725,52 @@ date_modified = 2024-03-19
 - [In our cashless society, we need to take digital jail seriously](https://thehub.ca/2022-02-22/howard-anglin-in-our-cashless-society-we-need-to-take-digital-jail-seriously/)
 - [IntelTechniques Data Removal Workbook - workbook.pdf](https://inteltechniques.com/data/workbook.pdf)
 - [Privacy Guides: Your Independent Privacy and Security Resource](https://www.privacyguides.org/en/)
+
+### Tech > Privacy > Software
+
+- [World / Obfuscate · GitLab](https://gitlab.gnome.org/World/obfuscate/?ref=news.itsfoss.com)
+
+## Tech > Productivity
+
+- [Keybr Typing Practice](https://www.keybr.com/)
+- [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
+- [eschluntz/compress: Text compression for generating keyboard expansions](https://github.com/eschluntz/compress)
+
+### Tech > Productivity > Software
+
+- [Automating 1/2 of my typing with generated shortcuts - Erik Schluntz](https://erikschluntz.com/software/2023/08/26/compressing-my-typing.html)
+- [Cal.com | Open Scheduling Infrastructure](https://cal.com/)
+- [Dispatch - Inbox for Slack](https://www.dispatch.do/)
+- [GitHub - glanceapp/glance: A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
+- [Lapce](https://lapce.dev/)
+- [Open Source ERP and CRM | Odoo](https://www.odoo.com/)
+- [Plane - The open source project management tool](https://plane.so/)
+- [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
+- [markdoc/markdoc: A powerful, flexible, Markdown-based authoring framework.](https://github.com/markdoc/markdoc)
+
+## Tech > Reading
+
+- [Well, to be fair, I have been using RSS since the '90s, and it wasn't an overnig... | Hacker News](https://news.ycombinator.com/item?id=35756673)
+
+### Tech > Reading > Software
+
+- [AboutRSS/ALL-about-RSS: A list of RSS related stuff: tools, services, communities and tutorials, etc.](https://github.com/AboutRSS/ALL-about-RSS)
+- [Explore Offline Wikipedia and Educational Content with Kiwix- Kiwix](https://kiwix.org/en/)
+- [FreshRSS, a free, self-hostable feeds aggregator](https://www.freshrss.org/)
+- [GitHub - RSS-Bridge/rss-bridge: The RSS feed for websites missing it](https://github.com/RSS-Bridge/rss-bridge)
+- [GitHub - Textualize/frogmouth: A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
+- [NewsBlur](https://www.newsblur.com/)
+- [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)
+- [mozilla/readability: A standalone version of the readability lib](https://github.com/mozilla/readability)
+
+## Tech > Science
+
+- [Whole Brain Emulation: No Progress on C. elegans After 10 Years — LessWrong](https://www.lesswrong.com/posts/mHqQxwKuzZS69CXX5/whole-brain-emulation-no-progress-on-c-elegans-after-10)
+
+### Tech > Science > Software
+
+- [New app! A compass that points to the centre of the galaxy (Interconnected)](https://interconnected.org/home/2024/02/15/galactic-compass)
+- [Stellarium Astronomy Software](https://stellarium.org/)
 
 ## Tech > Security
 
@@ -663,6 +800,18 @@ date_modified = 2024-03-19
 - [I have a "TV channel" app running on a Raspberry Pi serving up local video conte... | Hacker News](https://news.ycombinator.com/item?id=35740334)
 - [leandromoreira/digital_video_introduction: A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸](https://github.com/leandromoreira/digital_video_introduction)
 
+### Tech > Video > Software
+
+- [Cap — Effortless, instant screen sharing. Open source and cross-platform.](https://cap.so/)
+- [GitHub - ExistentialAudio/BlackHole: BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.](https://github.com/ExistentialAudio/BlackHole)
+- [LizardByte/Sunshine: Self-hosted game stream host for Moonlight.](https://github.com/LizardByte/Sunshine)
+- [Open Broadcaster Software | OBS](https://obsproject.com/)
+- [RustDesk – The Open Source Remote Desktop Access Software](https://rustdesk.com/index.html)
+- [iptv-org](https://iptv-org.github.io/)
+- [linuxmint/hypnotix: An M3U IPTV Player](https://github.com/linuxmint/hypnotix)
+- [moonlight-stream/moonlight-android: GameStream client for Android](https://github.com/moonlight-stream/moonlight-android)
+- [xlmnxp/blue-recorder: Simple Screen Recorder written in Rust based on Green Recorder](https://github.com/xlmnxp/blue-recorder)
+
 ## Tech > Web
 
 - [100 things you can do on your personal website | James' Coffee Blog](https://jamesg.blog/2024/02/19/personal-website-ideas/)
@@ -685,76 +834,59 @@ date_modified = 2024-03-19
 
 # Uncategorized
 
+- [](https://www.hnhiringtrends.com/)
 - [A look at search engines with their own indexes - Seirdy](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 - [Alternatives to Bloatware](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)
 - [Ansible — Configuration as Code for building up my Homelab | Akash Rajpurohit](https://akashrajpurohit.com/blog/ansible-infrastructure-as-a-code-for-building-up-my-homelab/)
-- [At Home Core Workout | Clutch Life: Ashley Conrad's 24/7 Fitness Trainer - YouTube](https://m.youtube.com/watch?si=iKmhgXIaT0HTbPdy&v=dJlFmxiL11s&feature=youtu.be)
 - [Awesome Wallpapers - wallhaven.cc](https://wallhaven.cc/)
-- [Backpressure explained — the resisted flow of data through software | by Jay Phelps | Medium](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
 - [Behind F1's Velvet Curtain](https://web.archive.org/web/20240301170542/https://www.roadandtrack.com/car-culture/a46975496/behind-f1-velvet-curtain/)
 - [BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore](https://github.com/BurntSushi/ripgrep)
-- [Cache is King: A guide for Docker layer caching in GitHub Actions - Blacksmith](https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions)
-- [California property map: Here's who owns every building in the state](https://www.sfchronicle.com/projects/2023/california-property-map/)
-- [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh/)
 - [Chatwoot: Customer engagement platform. An open-source, self-hosted alternative to Intercom, Zendesk](https://www.chatwoot.com/)
 - [Chatwoot: Customer engagement platform. An open-source, self-hosted alternative to Intercom, Zendesk](https://www.chatwoot.com/)
-- [Creating an Autonomous System for Fun and Profit](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html?m=1)
 - [Culture over Policy: The birth rate decline](https://www.writingruxandrabio.com/p/culture-over-policy-the-birth-rate)
+- [DIY OuttaSight – MRCOOL](https://mrcool.com/diy-ceiling-cassette/)
 - [Dogsheep](https://github.com/dogsheep)
 - [Downsides of Local First / Offline First | RxDB - JavaScript Database](https://rxdb.info/downsides-of-offline-first.html)
 - [Dungeon Church D&D Software Stack](https://dungeon.church/dungeon-church-software-stack/)
 - [EasyMQTT](https://www.easymqtt.app/)
 - [Ente - Private cloud for your photos, videos and more](https://ente.io/)
-- [Every Door](https://every-door.app/)
 - [File over app — Steph Ango](https://stephango.com/file-over-app)
 - [Fonoster](https://fonoster.com/)
 - [FreedomBox - Personal Server at Home](https://freedombox.org/)
 - [GitHub - AutoMQ/automq: A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.](https://github.com/AutoMQ/automq)
 - [GitHub - BossChow/ultimate-submit-list: This repository is dedicated to collecting a directory of resources for submitting startup projects, including websites, communities, newsletters, and more. It aims to help solo makers save time and effortlessly find the right platforms to promote their startups.](https://github.com/BossChow/ultimate-submit-list)
 - [GitHub - Filimoa/open-parse: Improved file parsing for LLM’s](https://github.com/Filimoa/open-parse)
-- [GitHub - Textualize/frogmouth: A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
+- [GitHub - Kareadita/Kavita: Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.](https://github.com/Kareadita/Kavita)
+- [GitHub - OpenAdaptAI/OpenAdapt: AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models](https://github.com/OpenAdaptAI/OpenAdapt)
 - [GitHub - azerothcore/azerothcore-wotlk: Complete Open Source and Modular solution for MMO](https://github.com/azerothcore/azerothcore-wotlk)
-- [GitHub - erikw/vim-keybindings-everywhere-the-ultimate-list: The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
 - [GitHub - medusajs/medusa: Building blocks for digital commerce](https://github.com/medusajs/medusa)
 - [GitHub - nadermx/backgroundremover: Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.](https://github.com/nadermx/backgroundremover)
 - [GitHub - nix-community/nixos-generators: Collection of image builders [maintainer=@Lassulus]](https://github.com/nix-community/nixos-generators)
 - [GitHub - sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 - [GitHub - tutim-io/tutim: The open-source wizard form infrastructure for web applications](https://github.com/tutim-io/tutim)
-- [Home - Open Geospatial Consortium](https://www.ogc.org/)
 - [Home - zrok](https://zrok.io/)
-- [Home | Immich](https://immich.app/)
 - [Home | Open Source Ecology](https://www.opensourceecology.org/)
 - [Home · thmsmlr](https://thmsmlr.com/cheap-infra)
-- [How Quickly Do Large Language Models Learn Unexpected Skills? | Quanta Magazine](https://www.quantamagazine.org/how-quickly-do-large-language-models-learn-unexpected-skills-20240213/)
 - [How to get started building a Homelab server in 2024 - Joe Karlsson](https://joekarlsson.com/2023/09/how-to-get-started-building-a-homelab-server-in-2024/)
-- [I Optimised My Game Engine Up To 12000 FPS - YouTube](https://www.youtube.com/watch?v=40JzyaOYJeY)
 - [JMP: Your phone number on every device](https://jmp.chat/)
-- [Jeff Geerling - Author and Software Developer in St. Louis, MO](https://www.jeffgeerling.com/)
 - [Kagi Search - A Premium Search Engine](https://kagi.com/)
-- [Keybr Typing Practice](https://www.keybr.com/)
 - [Kubernetes and Docker Container Management Software](https://www.portainer.io/)
-- [LibreTranslate - Free and Open Source Machine Translation API 🌐](https://libretranslate.com/)
 - [Little Big Details - The details are not the details](https://littlebigdetails.com/)
-- [LizardByte/Sunshine: Self-hosted game stream host for Moonlight.](https://github.com/LizardByte/Sunshine)
 - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/)
 - [ManualsLib - Makes it easy to find manuals online!](https://www.manualslib.com/)
-- [MapComplete](https://mapcomplete.org/)
 - [Marp: Markdown Presentation Ecosystem](https://marp.app/)
 - [Mattermost | Collaboration for Your Mission-Critical Work](https://mattermost.com/)
-- [Modal: High-performance cloud for developers](https://modal.com/)
-- [NixOS Wiki - NixOS Wiki](https://wiki.nixos.org/wiki/NixOS_Wiki)
 - [NixOS: Everything, Everywhere, All At Once](https://github.com/0atman/noboilerplate/blob/main/scripts/38-nixos.md)
 - [On Tech Debt: My Rust Library is now a CDO | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
-- [OpenTherm thermostat with ESPHome and Home Assistant](https://olegtarasov.me/opentherm-thermostat-esphome/)
+- [Oolite: an open-world space opera](https://oolite.space/)
+- [Orca - A free and open source screen reader](https://orca.gnome.org/)
 - [Paku for PurpleAir on the App Store](https://apps.apple.com/us/app/paku-for-purpleair/id1534130193)
-- [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/)
+- [Pascal Riesinger](https://riesinger.dev/)
 - [People can read their manager's mind](https://yosefk.com/blog/people-can-read-their-managers-mind.html)
 - [Personal Data Warehouses: Reclaiming Your Data](https://simonwillison.net/2020/Nov/14/personal-data-warehouses/)
 - [Pilot | Bookkeeping, tax, & CFO services for startups & small businesses](https://pilot.com/)
 - [Pluralistic: 05 Feb 2022 – Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2022/02/05/time-for-some-game-theory/#massholes)
-- [PocketBase - Open Source backend in 1 file](https://pocketbase.io/)
-- [Project OSRM](https://project-osrm.org/)
-- [Proxmox - Powerful open-source server solutions](https://www.proxmox.com/en/)
+- [Product Chart - Interactive Product Comparison Charts](https://www.productchart.com/)
 - [Pulumi - Infrastructure as Code in Any Programming Language](https://www.pulumi.com/)
 - [Quantified Self Amsterdam.key - 201706-qs17-aaronparecki.pdf](https://aaronparecki.com/2017/06/17/2/201706-qs17-aaronparecki.pdf)
 - [RSS Feed Organization Strategies And New Feed Cost](https://yukinu.com/blog/2024/02/06/rss-feed-processing-strategies.html)
@@ -763,53 +895,46 @@ date_modified = 2024-03-19
 - [Revolt - Find Your Community](https://revolt.chat/)
 - [Same Old — Real Life](https://reallifemag.com/same-old/)
 - [SankeyMATIC: Build a Sankey Diagram](https://www.sankeymatic.com/build/)
-- [Screely - Generate Website Mockups](https://screely.com/)
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures)
-- [Setting up a home VPN server with Wireguard | Mikkel Høgh](https://mikkel.hoegh.org/2019/11/01/home-vpn-server-wireguard/)
 - [Sourcegraph](https://sourcegraph.com/search)
-- [SymPy](https://www.sympy.org/en/index.html)
 - [TSDiagram - Diagrams as code with TypeScript](https://tsdiagram.com/#)
 - [Tabular — Free email template builder to build responsive emails](https://tabular.email/)
 - [The Four Hobbies, and Apparent Expertise - Marc's Blog](https://brooker.co.za/blog/2023/04/20/hobbies.html)
-- [The Quest for a Dumber Phone](https://every.to/cybernaut/the-quest-for-a-dumber-phone)
 - [The Software Architecture of Palia](https://www.singularity6.com/news/software-architecture-of-palia)
-- [The data model behind Notion's flexibility](https://www.notion.so/blog/data-model-behind-notion)
-- [The housing theory of everything - Works in Progress](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
 - [The one about the web developer job market – Baldur Bjarnason](https://www.baldurbjarnason.com/2024/the-one-about-the-web-developer-job-market/)
 - [The unreasonable effectiveness of just showing up everyday | Typesense](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
+- [The web framework for perfectionists with deadlines | Django](https://www.djangoproject.com/)
+- [Tiny Projects](https://tinyprojects.dev/)
 - [ToolJet/ToolJet: Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀](https://github.com/ToolJet/ToolJet)
 - [Trigger.dev | The open source background jobs framework](https://trigger.dev/)
-- [Twenty Years, Twenty Lessons—Part 1 | MAGIC: THE GATHERING](https://magic.wizards.com/en/news/making-magic/twenty-years-twenty-lessons-part-1-2016-05-30)
 - [Two fediverses, one network – Pawlicker's Pleroma Experiment Blog](https://pleromanonx86.wordpress.com/2023/11/22/two-fediverses-one-network/)
-- [Ultimate FPS Controller Design & Build - YouTube](https://www.youtube.com/watch?v=Ug06dhahqg0)
 - [UnifiedPush](https://unifiedpush.org/)
 - [VimGolf - real Vim ninjas count every keystroke!](https://www.vimgolf.com/)
 - [Vimium - The Hacker's Browser](https://vimium.github.io/)
 - [Weblate - web-based localization](https://weblate.org/en/)
 - [Welcome to Life: the singularity, ruined by lawyers - YouTube](https://www.youtube.com/watch?v=IFe9wiDfb0E&list=LL)
 - [Welcome | plappa](https://plappa.me/)
-- [Well, to be fair, I have been using RSS since the '90s, and it wasn't an overnig... | Hacker News](https://news.ycombinator.com/item?id=35756673)
 - [Whisky-App/Whisky: A modern Wine wrapper for macOS built with SwiftUI](https://github.com/Whisky-App/Whisky)
 - [Why Ireland's housing bubble burst - Works in Progress](https://worksinprogress.co/issue/why-irelands-housing-bubble-burst/)
 - [Zed - Code at the speed of thought](https://zed.dev/)
-- [Zero to Nix](https://zero-to-nix.com/)
 - [Zulip — organized team chat](https://zulip.com/)
-- [articles/internals_of_the_async_await_pattern_from_first_principles.md at master · Dobiasd/articles](https://github.com/Dobiasd/articles/blob/master/internals_of_the_async_await_pattern_from_first_principles.md)
+- [[Guide] Ansible — Infrastructure as a Code for building up my Homelab : r/selfhosted](https://www.reddit.com/r/selfhosted/comments/1bzq7h6/guide_ansible_infrastructure_as_a_code_for/)
+- [adrcotfas/Goodtime at news.itsfoss.com](https://github.com/adrcotfas/Goodtime?ref=news.itsfoss.com)
 - [diegopvlk/Dosage at news.itsfoss.com](https://github.com/diegopvlk/Dosage?ref=news.itsfoss.com)
-- [eschluntz/compress: Text compression for generating keyboard expansions](https://github.com/eschluntz/compress)
 - [flox/flox: Developer environments you can take with you](https://github.com/flox/flox)
 - [iiSM.org](https://iism.org/article/why-are-ceos-failing-software-engineers-56)
+- [janissary](https://blog.janissary.xyz/posts/homelab-4)
 - [maxent-ai/ocrpy: OCR, Archive, Index and Search: Implementation agnostic OCR framework.](https://github.com/maxent-ai/ocrpy)
 - [minroutine - bodyweightfitness](https://old.reddit.com/r/bodyweightfitness/wiki/minroutine)
-- [minroutine - bodyweightfitness](https://old.reddit.com/r/bodyweightfitness/wiki/minroutine)
-- [moonlight-stream/moonlight-android: GameStream client for Android](https://github.com/moonlight-stream/moonlight-android)
 - [nels.city — home](https://nels.city/)
 - [novuhq/novu: 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀](https://github.com/novuhq/novu)
-- [numtide/devshell: Per project developer environments](https://github.com/numtide/devshell)
 - [peppermint.sh/](https://peppermint.sh/)
 - [portr | portr](https://portr.dev/)
+- [restic · Backups done right!](https://restic.net/)
+- [soduto/Soduto: Soduto is a KDEConnect compatible client for macOS. It allows better integration between your phones, desktops and tablets.](https://github.com/soduto/Soduto?tab=readme-ov-file)
 - [tiangolo/fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi)
 - [vCard + RSS as an alternative to social media - nfraprado](https://nfraprado.net/post/vcard-rss-as-an-alternative-to-social-media.html)
 - [watsonbox/exportify: Export/Backup Spotify playlists using the Web API](https://github.com/watsonbox/exportify)
+- [~lown/openorb - A curated search engine for Atom and RSS feeds. - sourcehut git](https://git.sr.ht/~lown/openorb)
 - [マリウス . Goodbye Pushover, Hello Overpush](https://xn--gckvb8fzb.com/goodbye-pushover-hello-overpush/)
 - [マリウス . If You Must Use Signal, Use Molly](https://xn--gckvb8fzb.com/if-you-must-use-signal-use-molly/)

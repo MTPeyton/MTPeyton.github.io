@@ -9,8 +9,15 @@
     <managingEditor>N/A (Matthew Peyton)</managingEditor>
     <webMaster>N/A (Matthew Peyton)</webMaster>
     <copyright>Copyright © 2017-2024 Matthew Peyton</copyright>
-    <lastBuildDate>Sun, 05 May 2024 21:24:20 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 22:40:03 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Still Prefer TS over Python… But also Django over Express.</title>
+      <link>http://localhost:1313/posts/django_over_express/</link>
+      <pubDate>Wed, 12 Jun 2024 22:40:03 -0700</pubDate><author>N/A (Matthew Peyton)</author>
+      <guid>http://localhost:1313/posts/django_over_express/</guid>
+      <description>In a previous post I wrote about how I’ve been reaching for Typescript over Python lately. I still prefer Typescript over Python, for all of the reasons mentioned in that post. I think its typing system is better, it runs faster, the package management is (somewhat) less bad, etc. However, I’ve realized there’s a notably exception that’s led me to still pick Python over Typescript for some of my latest side projects....</description>
+    </item>
     <item>
       <title>My Top 100 Videogames</title>
       <link>http://localhost:1313/posts/top_100_games/</link>

@@ -9,8 +9,15 @@
     <managingEditor>N/A (Matthew Peyton)</managingEditor>
     <webMaster>N/A (Matthew Peyton)</webMaster>
     <copyright>Copyright © 2017-2024 Matthew Peyton</copyright>
-    <lastBuildDate>Mon, 13 May 2024 20:54:36 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 22:40:03 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Still Prefer TS over Python… But also Django over Express.</title>
+      <link>http://localhost:1313/posts/django_over_express/</link>
+      <pubDate>Wed, 12 Jun 2024 22:40:03 -0700</pubDate><author>N/A (Matthew Peyton)</author>
+      <guid>http://localhost:1313/posts/django_over_express/</guid>
+      <description>In a previous post I wrote about how I’ve been reaching for Typescript over Python lately. I still prefer Typescript over Python, for all of the reasons mentioned in that post. I think its typing system is better, it runs faster, the package management is (somewhat) less bad, etc. However, I’ve realized there’s a notably exception that’s led me to still pick Python over Typescript for some of my latest side projects....</description>
+    </item>
     <item>
       <title>Basic Mead Recipe (March 2024)</title>
       <link>http://localhost:1313/recipes/mar_2024_mead/</link>
@@ -142,7 +149,7 @@
       <link>http://localhost:1313/bookmarks/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate><author>N/A (Matthew Peyton)</author>
       <guid>http://localhost:1313/bookmarks/</guid>
-      <description>Business Business &amp;gt; Case Studies 12 Startups in 12 Months Josh Schertz 12 Startups in 12 Months yongfook A Year of Making Is Done Apple, Samsung, and the Irrelevance of the American Smartphone Market From bootstrapped to a $425 million exit - The Trello story Here&amp;rsquo;s How I Bootstrapped a SaaS to $10k MRR - Bannerbear Here&amp;rsquo;s Why Firefox is Seeing a Continuous Decline for Last 12 Years How Superhuman Grows - by Jaryd Hermann - How They Grow How an Ugly Single-Page Website Makes $5,000 a Month with Affiliate Marketing I&amp;rsquo;m Launching 12 Startups in 12 Months Laleh Khalili · In Clover: What does McKinsey do?...</description>
+      <description>Business Business &amp;gt; Case Studies 12 Startups in 12 Months Josh Schertz 12 Startups in 12 Months yongfook A Year of Making Is Done Apple, Samsung, and the Irrelevance of the American Smartphone Market From bootstrapped to a $425 million exit - The Trello story Here&amp;rsquo;s How I Bootstrapped a SaaS to $10k MRR - Bannerbear Here&amp;rsquo;s Why Firefox is Seeing a Continuous Decline for Last 12 Years How Ahrefs Gets a Billion Dollar-Worth Infrastructure With a 90% Discount | by Efim Mirochnik | May, 2024 | Ahrefs How Superhuman Grows - by Jaryd Hermann - How They Grow How an Ugly Single-Page Website Makes $5,000 a Month with Affiliate Marketing I&amp;rsquo;m Launching 12 Startups in 12 Months Laleh Khalili · In Clover: What does McKinsey do?...</description>
     </item>
   </channel>
 </rss>

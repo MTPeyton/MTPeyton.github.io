@@ -9,42 +9,14 @@
     <managingEditor>N/A (Matthew Peyton)</managingEditor>
     <webMaster>N/A (Matthew Peyton)</webMaster>
     <copyright>Copyright © 2017-2024 Matthew Peyton</copyright>
-    <lastBuildDate>Wed, 12 Jun 2024 22:40:03 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 20:54:36 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>I Still Prefer TS over Python… But also Django over Express.</title>
-      <link>http://localhost:1313/posts/django_over_express/</link>
-      <pubDate>Wed, 12 Jun 2024 22:40:03 -0700</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/django_over_express/</guid>
-      <description>In a previous post I wrote about how I’ve been reaching for Typescript over Python lately. I still prefer Typescript over Python, for all of the reasons mentioned in that post. I think its typing system is better, it runs faster, the package management is (somewhat) less bad, etc. However, I’ve realized there’s a notably exception that’s led me to still pick Python over Typescript for some of my latest side projects....</description>
-    </item>
     <item>
       <title>Basic Mead Recipe (March 2024)</title>
       <link>http://localhost:1313/recipes/mar_2024_mead/</link>
       <pubDate>Mon, 13 May 2024 20:54:36 -0700</pubDate><author>N/A (Matthew Peyton)</author>
       <guid>http://localhost:1313/recipes/mar_2024_mead/</guid>
       <description>Ingredients&#xA;2 Lbs of Honey Several gallons distilled water Steps&#xA;Sanitize everything with Star San (Affiliate Link) Pour 2 Lbs of honey into a carboy using a funnel Use warm distilled water to wash all of the honey into the carboy Fill the carboy halfway with the warm distilled water Put a stopper in the carboy Shake it a lot! Then shake it some more! Fill the rest of the carboy with distilled water (just below the start of the neck) Take a sample using a siphon into a large beaker Float a hydrometer in the beaker and take a specific gravity measurement Dump the sample back into the carboy Add a packet of yeast and stir Put the stopper back in, put the airlock in, filled with vodka Now put the carboy in storage and wait After the airlock bubbles slow down (typically in a few weeks), take another hydrometer reading Once you have two readings that haven’t changed, OR you don’t see any more bubbles, then it’s ready to bottle Bottle it!...</description>
-    </item>
-    <item>
-      <title>My Top 100 Videogames</title>
-      <link>http://localhost:1313/posts/top_100_games/</link>
-      <pubDate>Sun, 05 May 2024 21:24:20 -0700</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/top_100_games/</guid>
-      <description>I decided to rank the top 100 videogames that I&amp;rsquo;ve played.&#xA;To make the ranking, I started by listing every videogame I&amp;rsquo;ve ever played. I did this through a combination of memory and Steam records.&#xA;I then fed all of those into ThingRanker. It&amp;rsquo;s a small Python program I wrote. It takes in a list of strings, and runs an arbitrary number of &amp;ldquo;matches&amp;rdquo; against random pairings of two strings. During each match, I choose which string I like better....</description>
-    </item>
-    <item>
-      <title>How to Automatically Make Rimworld Timelapses With FFMPEG</title>
-      <link>http://localhost:1313/posts/rimworld_timelapse_ffmpeg/</link>
-      <pubDate>Mon, 22 Apr 2024 22:34:37 -0700</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/rimworld_timelapse_ffmpeg/</guid>
-      <description>I&amp;rsquo;ve recently gotten (back) into playing Rimworld, and I wanted to make some nice timelapses of my bases. To that end, I realized I can use the Progress Renderer mod + FFMPEG to easily create MP4 video timelapses.&#xA;1. Setup Progress Renderer First you&amp;rsquo;ll want to install the Progress Renderer mod. Be careful, as there are two versions on Steam Workshop. This is the correct version and this is the outdated version....</description>
-    </item>
-    <item>
-      <title>I’ve Been Reaching For Typescript Over Python Lately</title>
-      <link>http://localhost:1313/posts/typescript_over_python/</link>
-      <pubDate>Mon, 15 Apr 2024 22:46:29 -0700</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/typescript_over_python/</guid>
-      <description>Lately, I’ve found myself reaching for Typescript more than I reach for Python. It’s not that I dislike Python… it’s just that Typescript has felt more pleasant to work with lately.&#xA;I think it boils down to a few key things.&#xA;First is the typing system. It feels like the perfect in-between of Java’s types and Python’s type hints. I never feel like I’m fighting it, and type inferences work well....</description>
     </item>
     <item>
       <title>Legume Free Cheap Chow Mein</title>
@@ -54,53 +26,11 @@
       <description>Legume Free Cheap Chow Mein Adapted from https://www.joshuaweissman.com/post/the-cheapest-noodle-dish-ever-chicken-chow-mein-but-cheaper&#xA;Ingredients For the sauce:&#xA;1.5 tablespoons (22g) rice vinegar 2.5 tablespoons (38g) imitation soy sauce (I like this one from Ocean&amp;rsquo;s Halo) 2 tablespoons (40g) soy-free hoisin sauce or oyster sauce 1 teaspoon (5g) toasted sesame oil 2 teaspoons (5g) corn starch For the noodles:&#xA;12 oz (340g) boneless skinless chicken thighs, cut into 1/2 inch cubes 3 tablespoons (42g) vegetable oil 2 green onions, cut into segments 1 carrot julienne 2 ribs celery, diced 3....</description>
     </item>
     <item>
-      <title>OpinionMoji Traffic From HackerNews Comment</title>
-      <link>http://localhost:1313/posts/opinionmoji_traffic_from_hackernews_comment/</link>
-      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/opinionmoji_traffic_from_hackernews_comment/</guid>
-      <description>On March 26th, while I was eating lunch and reading HackerNews, I saw a thread where people were posting non-AI projects they were working on. On a whim, I decided to comment with a short description of and link to a tiny project I’ve been working on: OpinionMoji.&#xA;The resulting traffic bump was neat to watch. Lots of people talk of getting 10,000+ visits whenever you post something on HackerNews. However, this was more modest: about 205 visits that first day....</description>
-    </item>
-    <item>
-      <title>Hardware and Software I Use in 2024</title>
-      <link>http://localhost:1313/posts/hardware_and_software_2024/</link>
-      <pubDate>Wed, 27 Mar 2024 23:31:24 -0700</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/hardware_and_software_2024/</guid>
-      <description>Some of the links on this page are affiliate links. If you purchase something from them, I get a small commission. I only list things I actually use.&#xA;Hardware Desk Setup Office Chair: Steelcase Gesture Amazon Superb office chair that&amp;rsquo;s comfortable to sit in for hours. Foot Rest: ErgoFoam Foot Rest Amazon Helps with ergonomics. My chair and desk height normally leave my feet dangling. Desk: Fully Jarvis Bamboo Standing Desk Herman Miller - Fully Great desk....</description>
-    </item>
-    <item>
-      <title>Things Already Done Are Still Worth Doing</title>
-      <link>http://localhost:1313/posts/things_already_done_are_still_worth_doing/</link>
-      <pubDate>Wed, 20 Mar 2024 22:45:51 -0700</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/things_already_done_are_still_worth_doing/</guid>
-      <description>Things Already Done Are Still Worth Doing&#xA;It seems like everything has already been done. Just about every storyline, business idea, photograph, English sentence and more have already been done. It’s estimated that there are about 100 billion unique humans that have ever lived. About 8 billion of them are alive right now. That’s a lot of people doing a lot of things. It’s likely, almost guaranteed, that at least one of them has already done the thing you want to do....</description>
-    </item>
-    <item>
-      <title>My 35 Database Opinions</title>
-      <link>http://localhost:1313/posts/my_35_database_opinions/</link>
-      <pubDate>Mon, 11 Mar 2024 23:11:22 -0700</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/my_35_database_opinions/</guid>
-      <description>“That’s just, like, your opinion, man.” - The Dude&#xA;Like all opinions, some of these might be wrong, and some might be right. Some might only apply in certain circumstances. But these are the opinions I’ve formed over the last 5+ years on what databases to use, and how to use them.&#xA;Pick relational databases by default. “NoSQL” means “another one-off query language to learn”. Only use alternative databases (MongoDB, Redis, Cassandra, etc....</description>
-    </item>
-    <item>
       <title>Legume Free Butter Chicken</title>
       <link>http://localhost:1313/recipes/legume_free_butter_chicken/</link>
       <pubDate>Sat, 09 Mar 2024 13:29:50 -0800</pubDate><author>N/A (Matthew Peyton)</author>
       <guid>http://localhost:1313/recipes/legume_free_butter_chicken/</guid>
       <description>Legume Free Butter Chicken Adapted from this recipe.&#xA;This is legume free in the sense that it does not have any Fenugreek.&#xA;Ingredients For the chicken marinade:&#xA;28 oz (800g) boneless and skinless chicken thighs or breasts cut into bite-sized pieces 1/2 cup plain yogurt 1 1/2 tablespoons minced garlic 1 tablespoon minced ginger (or finely grated) 2 teaspoons garam masala 1 teaspoon turmeric 1 teaspoon ground cumin 1 teaspoon red chili powder 1 teaspoon of salt For the sauce:...</description>
-    </item>
-    <item>
-      <title>My Ideal Libre Computer&#43;Phone</title>
-      <link>http://localhost:1313/posts/my_ideal_libre_computer_phone/</link>
-      <pubDate>Sun, 03 Mar 2024 22:41:01 -0800</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/my_ideal_libre_computer_phone/</guid>
-      <description>I have a very clear idea of what my &amp;ldquo;ideal&amp;rdquo; computer would be. It would incorporate all of the best aspects of the different computers (including smartphones!) I already use today, into a single machine.&#xA;The What First, it would have the form factor of a typical smartphone. This would allow me to carry it everywhere, and use it both one-handed and two-handed. I might even have it be a “hotdog-style foldable” to allow for comfier reading....</description>
-    </item>
-    <item>
-      <title>Why I Switched From Local Plaintext Accounting to a SaaS</title>
-      <link>http://localhost:1313/posts/plaintext_accounting_to_saas/</link>
-      <pubDate>Sun, 25 Feb 2024 23:08:10 -0800</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/plaintext_accounting_to_saas/</guid>
-      <description>Before 2017, I was a user of Mint for tracking my personal finances. However, around that time, I realized that it didn&amp;rsquo;t offer me much functionality. Worse, it was storing my banking and investment account credentials in a way that allowed server-side decryption. (In order to do browser automation and screen scraping of financial websites) So I decided to switch to something else.&#xA;2017 was also the year when I decided to start using more Free and Open Source Software in my life....</description>
     </item>
     <item>
       <title>Baked Honey Salmon</title>
@@ -136,13 +66,6 @@
       <pubDate>Wed, 21 Feb 2024 23:22:28 -0800</pubDate><author>N/A (Matthew Peyton)</author>
       <guid>http://localhost:1313/recipes/baked_honey_granola/</guid>
       <description>Baked Honey Granola Ingredients 2 Cups uncooked rolled oats Quarter cup brown sugar (or regular sugar) Do an eigth of a cup for less sweet granola Quarter teaspoon cinnamon Quarter cup of honey Quarter cup of olive oil Pinch of salt (Optional) Any dried mixins (e.g. dried fruit) Instructions Preheat oven to 325 degrees In large bowl, combine oats, brown sugar, cinnamon, salt In a glass measuring cup, add honey, and warm in microwave for 30 seconds Add the olive oil to the honey and stir to mix Drizzle the honey+olive oil over the ingredients....</description>
-    </item>
-    <item>
-      <title>How I Programmatically Bookmark, Archive and Share Websites</title>
-      <link>http://localhost:1313/posts/programmatic_bookmarks/</link>
-      <pubDate>Mon, 19 Feb 2024 22:31:19 -0800</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>http://localhost:1313/posts/programmatic_bookmarks/</guid>
-      <description>For the last decade plus, I’ve been tossing links to interesting pages in all sorts of random places. Firefox bookmarks, Apple Notes, Apple Reminders, Markdown files, emails to myself…&#xA;I figured it was finally time to organize all of that. Plus I’ve also wanted to add more content to my personal website for awhile. With my bookmarked links now organized in a single place, it was easy to auto-generate my bookmarks page....</description>
     </item>
     <item>
       <title>Bookmarks</title>

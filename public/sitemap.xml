@@ -2,53 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-12T22:40:03-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/django_over_express/</loc>
-    <lastmod>2024-06-12T22:40:03-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-06-12T22:40:03-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/recipes/mar_2024_mead/</loc>
+    <lastmod>2024-05-13T20:54:36-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-13T20:54:36-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipes/</loc>
     <lastmod>2024-05-13T20:54:36-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/top_100_games/</loc>
-    <lastmod>2024-05-05T21:24:20-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/rimworld_timelapse_ffmpeg/</loc>
-    <lastmod>2024-04-22T22:34:37-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/typescript_over_python/</loc>
-    <lastmod>2024-04-15T22:46:29-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/recipes/legume_free_cheap_chow_mein/</loc>
     <lastmod>2024-04-08T23:10:51-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/opinionmoji_traffic_from_hackernews_comment/</loc>
-    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/hardware_and_software_2024/</loc>
-    <lastmod>2024-03-27T23:31:24-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/things_already_done_are_still_worth_doing/</loc>
-    <lastmod>2024-03-20T22:45:51-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my_35_database_opinions/</loc>
-    <lastmod>2024-03-11T23:11:22-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/recipes/legume_free_butter_chicken/</loc>
     <lastmod>2024-03-09T13:29:50-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my_ideal_libre_computer_phone/</loc>
-    <lastmod>2024-03-03T22:41:01-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/plaintext_accounting_to_saas/</loc>
-    <lastmod>2024-02-25T23:08:10-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipes/baked_honey_salmon/</loc>
     <lastmod>2024-02-24T15:39:06-08:00</lastmod>
@@ -64,9 +31,6 @@
   </url><url>
     <loc>http://localhost:1313/recipes/baked_honey_granola/</loc>
     <lastmod>2024-02-21T23:22:28-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/programmatic_bookmarks/</loc>
-    <lastmod>2024-02-19T22:31:19-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/bookmarks/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>

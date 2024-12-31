@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Matthew Peyton</title>
-    <link>https://mpeyton.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Matthew Peyton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
@@ -10,12 +10,12 @@
     <webMaster>N/A (Matthew Peyton)</webMaster>
     <copyright>Copyright © 2017-2024 Matthew Peyton</copyright>
     <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mpeyton.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bookmarks</title>
-      <link>https://mpeyton.com/bookmarks/</link>
+      <link>http://localhost:1313/bookmarks/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate><author>N/A (Matthew Peyton)</author>
-      <guid>https://mpeyton.com/bookmarks/</guid>
+      <guid>http://localhost:1313/bookmarks/</guid>
       <description>Business Business &amp;gt; Case Studies 12 Startups in 12 Months Josh Schertz 12 Startups in 12 Months yongfook A Year of Making Is Done Apple, Samsung, and the Irrelevance of the American Smartphone Market Building and scaling Notion’s data lake From bootstrapped to a $425 million exit - The Trello story Here&amp;rsquo;s How I Bootstrapped a SaaS to $10k MRR - Bannerbear Here&amp;rsquo;s Why Firefox is Seeing a Continuous Decline for Last 12 Years How Ahrefs Gets a Billion Dollar-Worth Infrastructure With a 90% Discount | by Efim Mirochnik | May, 2024 | Ahrefs How Superhuman Grows - by Jaryd Hermann - How They Grow How an Ugly Single-Page Website Makes $5,000 a Month with Affiliate Marketing I&amp;rsquo;m Launching 12 Startups in 12 Months Laleh Khalili · In Clover: What does McKinsey do?...</description>
     </item>
   </channel>

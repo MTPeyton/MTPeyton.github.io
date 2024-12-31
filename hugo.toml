@@ -26,10 +26,6 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [menus]
 [[menus.main]]
-name = 'Recipes'
-pageRef = '/recipes'
-weight = 10
-[[menus.main]]
 name = 'Bookmarks'
 pageRef = '/bookmarks'
 weight = 20

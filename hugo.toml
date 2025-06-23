@@ -13,10 +13,6 @@ languageCode = "en-US"
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
-[Author]
-name = "Matthew Peyton"
-email = "N/A"
-
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
@@ -44,7 +40,7 @@ images = ["images/share.png"]
 title = "Matthew Peyton's Website"
 
 # This theme will, by default, inject a made-with-line at the bottom of the page.
-# You can turn it off, but we would really appreciate if you don’t :-).
+# You can turn it off, but we would really appreciate if you don't :-).
 hideMadeWithLine = true
 
 # By default, this theme displays dates with a format like "02 Jan, 2006", but
@@ -53,6 +49,10 @@ hideMadeWithLine = true
 # for details. An example TOML config that uses [ISO
 # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
 dateFormat = "2006-01-02"
+
+[params.author]
+name = "Matthew Peyton"
+email = "N/A"
 
 [params.plausible]
 enable = true

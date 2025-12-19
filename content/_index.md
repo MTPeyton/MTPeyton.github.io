@@ -1,7 +1,7 @@
 +++
 title = 'Home'
 date_created = 2024-02-17T21:04:51-08:00
-date_modified = 2024-03-24T20:35:27-07:00
+date_modified = 2025-12-19T00:00:00-00:00
 +++
 
 # About Me
@@ -18,11 +18,12 @@ I like to tell people it was roughly:
 - 1/3rd Statistics
 - 1/3rd Urban Planning
 
-After that, I've worked at a few startups:
+After that, I've worked at a several companies:
 
 - 2019 - 2021 [Visual Labs](https://visuallabsinc.com/) Body worn cameras and redaction software for law enforcement agencies.
 - 2021 - 2023 [Beans.ai](https://www.beans.ai/) Logistics management SaaS for last-mile delivery companies.
-- 2024 - Now [Hivemapper](https://hivemapper.com) Geospatial data from a distributed network of dash cameras.
+- 2024 - 2025 [Hivemapper](https://hivemapper.com) Geospatial data from a distributed network of dash cameras.
+- 2025 - Present [Mapbox](https://www.mapbox.com/) Traffic data from device telemetry.
 
 The connecting thread is that they each:
 
@@ -31,7 +32,7 @@ The connecting thread is that they each:
 - That processes the data with databases, analytical tools and computer vision...
 - The results of which are made available to customers.
 
-Outside of work, I read a lot about science, technology, urban planning, and society. I also enjoy tinkering, gaming, mead-making and walking. Aside from that, I try to live life as best I can!
+Outside of work, I read a lot about science, technology, urban planning, and society. I also enjoy tinkering, gaming, and walking.
 
 ## External Links
 

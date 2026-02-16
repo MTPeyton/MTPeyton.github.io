@@ -1,7 +1,7 @@
 +++
 title = 'Home'
 date_created = 2024-02-17T21:04:51-08:00
-date_modified = 2025-12-19T00:00:00-00:00
+date_modified = 2026-02-16T00:00:00-00:00
 +++
 
 # About Me
@@ -10,13 +10,7 @@ date_modified = 2025-12-19T00:00:00-00:00
 
 I'm originally from Philadelphia, and now live in the Bay Area.
 
-I graduated from UC Berkeley with a [BA in Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major) (concentration in [Urban Science](https://data.berkeley.edu/degrees/domain-emphasis/urban-science)) in 2019.
-
-I like to tell people it was roughly:
-
-- 1/3rd Computer Science
-- 1/3rd Statistics
-- 1/3rd Urban Planning
+I graduated from UC Berkeley with a [BA in Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major) in 2019.
 
 After that, I've worked at a several companies:
 

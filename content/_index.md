@@ -8,7 +8,7 @@ I'm originally from Philadelphia, and now live in the Bay Area.
 
 I graduated from UC Berkeley with a [BA in Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major) in 2019.
 
-After that, I've worked as a software engineer at a several companies:
+After that, I've worked as a software engineer at several companies:
 
 - 2019 - 2021 [Visual Labs](https://visuallabsinc.com/) Body worn cameras and redaction software for law enforcement.
 - 2021 - 2023 [Beans.ai](https://www.beans.ai/) Logistics management SaaS for last-mile delivery companies.

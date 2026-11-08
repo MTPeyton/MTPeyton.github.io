@@ -1,8 +1,12 @@
-+++ title = 'Home' date_created = 2024-02-17T21:04:51-08:00 date_modified = 2026-11-08T00:00:00-00:00+++
++++
+title = 'Home'
+date_created = 2024-02-17T21:04:51-08:00
+date_modified = 2026-11-08T00:00:00-00:00
++++
 
 # About Me
 
-Matt Peyton
+![Matt Peyton](/matt256.png)
 
 I'm originally from Philadelphia, and now live in the Bay Area.
 

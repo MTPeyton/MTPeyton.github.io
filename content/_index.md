@@ -1,4 +1,4 @@
-+++ title = 'Home' date_created = 2024-02-17T21:04:51-08:00 date_modified = 2026-07-31T00:00:00-00:00+++
++++ title = 'Home' date_created = 2024-02-17T21:04:51-08:00 date_modified = 2026-11-08T00:00:00-00:00+++
 
 # About Me
 
@@ -13,7 +13,8 @@ After that, I've worked as a software engineer at several companies:
 - 2019 - 2021 [Visual Labs](https://visuallabsinc.com/) Body worn cameras and redaction software for law enforcement.
 - 2021 - 2023 [Beans.ai](https://www.beans.ai/) Logistics management SaaS for last-mile delivery companies.
 - 2024 - 2025 [Hivemapper](https://hivemapper.com) Creating maps from a network of dash cameras.
-- 2025 - Present [Mapbox](https://www.mapbox.com/) Generating traffic data from device telemetry.
+- 2025 - 2026 [Mapbox](https://www.mapbox.com/) Generating traffic data from device telemetry.
+- 2026 - Present [Skydio](https://skydio.com) Geolocating and inspecting physical assets using drones.
 
 The connecting thread is that they each:
 
